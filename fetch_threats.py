@@ -3,6 +3,7 @@ subprocess.call(['pip', 'install', 'requests'])
 
 import requests
 import csv
+import os
 from datetime import datetime
 
 print("Fetching threat data...")
@@ -27,3 +28,12 @@ with open("threats.csv", "w", newline="") as f:
         writer.writerow([datetime.now().strftime("%Y-%m-%d"), t])
 
 print(f"Done! Found {len(threats)} threats.")
+
+# Send Discord alert
+webhook_url = os.environ.get("DISCORD_WEBHOOK")
+if webhook_url:
+    message = {
+        "content": f"🚨 **CTI Automator Update**\n✅ Successfully pulled **{len(threats)} threats** from URLhaus\n🕐 {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}"
+    }
+    requests.post(webhook_url, json=message)
+    print("Discord alert sent!")
