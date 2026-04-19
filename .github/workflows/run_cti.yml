@@ -3,7 +3,7 @@ name: Run CTI Automator
 on:
   schedule:
     - cron: "0 */6 * * *"  # runs every 6 hours
-  workflow_dispatch:         # lets you run it manually too
+  workflow_dispatch:         # manual run
 
 jobs:
   fetch-threats:
