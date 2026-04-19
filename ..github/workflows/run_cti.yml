@@ -3,7 +3,7 @@ name: Run CTI Automator
 on:
   schedule:
     - cron: "0 */6 * * *"  # runs every 6 hours
-  workflow_dispatch:         # manual run
+  workflow_dispatch:         # lets you run it manually too
 
 jobs:
   fetch-threats:
@@ -17,14 +17,11 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r $GITHUB_WORKSPACE/requirements.txt
 
       - name: Run script
-        run: python fetch_threats.py
+        run: python $GITHUB_WORKSPACE/fetch_threats.py
 
-      - name: Save results
-        uses: actions/checkout@v3
-      
       - name: Commit threat data
         run: |
           git config user.name "github-actions"
