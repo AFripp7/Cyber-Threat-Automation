@@ -1,33 +1,20 @@
-
 name: Run CTI Automator
-
 on:
   workflow_dispatch:
-
 jobs:
   fetch-threats:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
-
+        uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install dependencies
-        run: |
-          cd $GITHUB_WORKSPACE
-          ls -la
-          pip install requests
-
+        run: pip install requests
       - name: Run script
-        run: |
-          cd $GITHUB_WORKSPACE
-          python fetch_threats.py
-
+        run: python fetch_threats.py
       - name: Commit threat data
         run: |
           git config user.name "github-actions"
