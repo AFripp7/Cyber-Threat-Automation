@@ -17,10 +17,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r $GITHUB_WORKSPACE/requirements.txt
 
       - name: Run script
-        run: python fetch_threats.py
+        run: python $GITHUB_WORKSPACE/fetch_threats.py
 
       - name: Commit threat data
         run: |
