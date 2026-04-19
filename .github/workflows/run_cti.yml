@@ -1,7 +1,7 @@
 name: Run CTI Automator
 on:
   schedule:
-    - cron: "0 */6 * * *" 
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 jobs:
   fetch-threats:
@@ -12,6 +12,8 @@ jobs:
         with:
           python-version: "3.11"
       - run: python fetch_threats.py
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
       - name: Commit threat data
         run: |
           git config user.name "github-actions"
