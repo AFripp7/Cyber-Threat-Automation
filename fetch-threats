@@ -11,16 +11,18 @@ lines = response.text.splitlines()
 
 threats = []
 for line in lines:
-    if line.startswith("#"):  # skip comment lines
+    if line.startswith("#") or line.startswith("dateadded"):
         continue
-    parts = line.split(",")
-    if len(parts) >= 3:
+
+    parts = line.split(";")
+    if len(parts) > 1:
         threats.append(parts)
 
 with open("threats.csv", "w", newline="") as f:
     writer = csv.writer(f)
-    writer.writerow(["date_collected", "raw_data"])
+    writer.writerow(["date_collected"] + ["urlhaus_fields"])
     for t in threats:
-        writer.writerow([datetime.now().strftime("%Y-%m-%d"), t])
+        writer.writerow([datetime.now().strftime("%Y-%m-%d")] + t)
 
 print(f"Done! Found {len(threats)} threats.")
+
