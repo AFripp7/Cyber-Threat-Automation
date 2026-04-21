@@ -26,7 +26,7 @@ for line in lines:
         threat_type   = parts[5].strip('"')
         malware_family = parts[6].strip('"')
 
-         if status == "online":
+        if status == "online":
             threats.append({
                 "id": id,
                 "date_added": date_added,
