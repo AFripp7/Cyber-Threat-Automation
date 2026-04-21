@@ -6,7 +6,7 @@ Amir Fripp
 
 #### Your section leader's name
 
-Amir Fripp
+Bao Hunyh
 
 #### Project title
 
