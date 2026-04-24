@@ -1,4 +1,12 @@
 source,id,date_added,url,status,threat_type,malware_family
+URLhaus,3830576,2026-04-24 20:03:17,http://27.204.192.37:48776/i,online,malware_download,32-bit
+URLhaus,3830577,2026-04-24 20:03:17,http://71.56.88.23:45516/bin.sh,online,malware_download,32-bit
+URLhaus,3830578,2026-04-24 20:03:17,http://115.56.10.102:36588/i,online,malware_download,32-bit
+URLhaus,3830575,2026-04-24 20:00:10,https://zeit-2k.limbe7revolut.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk,online,malware_download,ClearFake
+URLhaus,3830574,2026-04-24 19:56:16,http://221.200.218.55:59674/i,online,malware_download,32-bit
+URLhaus,3830573,2026-04-24 19:53:14,https://dark-star-4.limbe7revolut.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk,online,malware_download,ClearFake
+URLhaus,3830572,2026-04-24 19:51:18,http://182.127.84.240:53368/i,online,malware_download,32-bit
+URLhaus,3830571,2026-04-24 19:51:15,http://27.37.113.159:36350/i,online,malware_download,32-bit
 URLhaus,3830570,2026-04-24 19:49:10,https://va11dat-spark.arapnik-nosog.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk,online,malware_download,ClearFake
 URLhaus,3830569,2026-04-24 19:47:22,http://42.229.247.90:38927/i,online,malware_download,32-bit
 URLhaus,3830568,2026-04-24 19:42:29,http://112.242.107.30:54617/i,online,malware_download,Mozi
@@ -769,6 +777,7 @@ URLhaus,3828480,2026-04-22 08:21:10,http://175.167.108.139:46557/i,online,malwar
 URLhaus,3828482,2026-04-22 08:21:10,http://175.167.108.139:46557/bin.sh,online,malware_download,None
 URLhaus,3828465,2026-04-22 08:21:09,http://91.147.100.200:44721/i,online,malware_download,None
 URLhaus,3828464,2026-04-22 08:21:08,http://178.238.27.138:57400/i,online,malware_download,Mozi
+URLhaus,3828463,2026-04-22 08:20:14,http://120.37.212.103:56557/bin.sh,online,malware_download,mirai
 URLhaus,3828462,2026-04-22 08:20:13,http://123.191.47.203:49872/bin.sh,online,malware_download,None
 URLhaus,3828453,2026-04-22 08:20:12,http://42.52.26.29:33208/i,online,malware_download,None
 URLhaus,3828454,2026-04-22 08:20:12,http://58.47.120.129:34202/i,online,malware_download,mirai
@@ -2006,6 +2015,8 @@ FeodoTracker,,2025-12-30 13:56:31,50.16.16.211,online,botnet_c2,online
 FeodoTracker,,2026-01-13 21:41:15,34.204.119.63,online,botnet_c2,offline
 FeodoTracker,,2026-02-17 05:41:23,178.62.3.223,online,botnet_c2,offline
 FeodoTracker,,2026-03-04 14:28:39,27.133.154.218,online,botnet_c2,offline
+ThreatFox,2026-04-24 20:04:16," ""1799732"," ""rouge-mond-7.limbe7revolut.in.net",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-04-24 19:58:20," ""1799731"," ""zeit-2k.limbe7revolut.in.net",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-04-24 19:46:59," ""1799729"," ""va11dat-spark.arapnik-nosog.in.net",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-04-24 19:38:16," ""1799724"," ""p4rt3-lab.arapnik-nosog.in.net",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-04-24 19:25:27," ""1799723"," ""http://cj597826.tw1.ru/L1nc0In.php",online," ""url"," ""win.dcrat"
@@ -2915,7 +2926,3 @@ ThreatFox,2026-04-22 20:15:32," ""1796292"," ""https://hit.flise-mesteren.dk/",o
 ThreatFox,2026-04-22 20:15:27," ""1796291"," ""hit.ducard.com.br",online," ""domain"," ""win.vidar"
 ThreatFox,2026-04-22 20:15:24," ""1796289"," ""https://hit.ducard.com.br/",online," ""url"," ""win.vidar"
 ThreatFox,2026-04-22 20:10:18," ""1796287"," ""gr1d1-vector.to2virex.in.net",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-04-22 20:04:34," ""1796286"," ""5565wep5.sylov3er.in.net",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-04-22 19:58:50," ""1796285"," ""ultra-c4ny0n.sylov3er.in.net",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-04-22 19:57:10," ""1796284"," ""cookie2.4ws.cz",online," ""domain"," ""win.strelastealer"
-ThreatFox,2026-04-22 19:53:32," ""1796282"," ""portal-enc.sylov3er.in.net",online," ""domain"," ""js.clearfake"
