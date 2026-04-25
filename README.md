@@ -13,7 +13,7 @@ for free on GitHub Actions every 3 hours.
 - Runs automatically on GitHub's servers   no manual work needed
 
   How It Works
-1. GitHub Actions triggers the script on a schedule every 3 hours
+1. GitHub Actions triggers the script on a schedule every X hours
 2. `fetch_threats.py` fetches the latest threat feeds from all three sources
 3. Results are cleaned, filtered, and saved to `threats.csv` in the repository
 4. A Discord notification is sent with a full summary of findings
@@ -37,9 +37,6 @@ The automation file that makes everything hands-free. It sets up a clean Ubuntu
 environment, installs Python, runs the script on a cron schedule, then commits 
 and pushes the updated threats file back to the repository automatically.
 
-**`README.md`**
-Documents the entire project   what it does, how it works, the problems faced 
-during development, and a full walkthrough of the code.
 
   Threat Feed Sources
 - [URLhaus by Abuse.ch](https://urlhaus.abuse.ch)   malicious URLs used for malware distribution
@@ -150,5 +147,8 @@ updated to run every 3 hours by changing it to `0 */3 * * *`. Cron expressions
 use 5 fields representing minute, hour, day, month, and day of week   a small 
 change with a big impact on how frequently the automator runs.
 
+
+**VOICEOVER**
+https://voicethread.com/myvoice/thread/33192466
  
 
