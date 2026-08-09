@@ -1,5 +1,36 @@
 source,id,date_added,url,status,threat_type,malware_family
+URLhaus,3900301,2026-08-09 18:07:08,http://113.221.9.116:54492/bin.sh,online,malware_download,32-bit
+URLhaus,3900300,2026-08-09 17:51:08,https://37.77.150.120/Bin/ScreenConnect.ClientSetup.exe,online,malware_download,37-77-150-120
+URLhaus,3900299,2026-08-09 17:51:06,https://37.77.150.120/bin/support.client.exe,online,malware_download,37-77-150-120
+URLhaus,3900296,2026-08-09 17:46:33,http://61.52.217.11:59440/i,online,malware_download,32-bit
+URLhaus,3900295,2026-08-09 17:40:25,http://105.225.133.213:37257/i,online,malware_download,32-bit
+URLhaus,3900294,2026-08-09 17:07:25,http://110.36.91.33:34772/i,online,malware_download,32-bit
+URLhaus,3900293,2026-08-09 17:02:18,http://39.90.145.46:39695/bin.sh,online,malware_download,32-bit
+URLhaus,3900291,2026-08-09 16:58:16,http://103.31.103.204:36161/bin.sh,online,malware_download,32-bit
+URLhaus,3900292,2026-08-09 16:58:16,http://123.5.150.18:40732/bin.sh,online,malware_download,32-bit
+URLhaus,3900290,2026-08-09 16:42:07,http://115.55.152.237:50318/i,online,malware_download,Mozi
+URLhaus,3900289,2026-08-09 16:28:22,http://175.151.82.88:52513/i,online,malware_download,32-bit
+URLhaus,3900288,2026-08-09 16:19:22,http://221.15.186.19:46271/i,online,malware_download,32-bit
+URLhaus,3900287,2026-08-09 15:59:16,http://221.15.186.19:46271/bin.sh,online,malware_download,32-bit
+URLhaus,3900286,2026-08-09 15:58:11,http://123.12.244.28:44252/i,online,malware_download,32-bit
+URLhaus,3900285,2026-08-09 15:52:20,http://222.140.176.80:57695/i,online,malware_download,32-bit
+URLhaus,3900284,2026-08-09 15:51:06,https://143.246.195.33:48973/systemdd,online,malware_download,elf
+URLhaus,3900283,2026-08-09 15:46:12,http://42.235.79.41:41991/i,online,malware_download,mirai
+URLhaus,3900282,2026-08-09 15:30:21,http://222.140.176.80:57695/bin.sh,online,malware_download,32-bit
+URLhaus,3900281,2026-08-09 15:29:06,http://123.12.244.28:44252/bin.sh,online,malware_download,32-bit
+URLhaus,3900280,2026-08-09 15:25:25,http://130.12.209.147:55609/i,online,malware_download,32-bit
+URLhaus,3900279,2026-08-09 15:21:25,http://111.127.232.172:44915/i,online,malware_download,32-bit
+URLhaus,3900278,2026-08-09 15:20:14,http://109.248.160.75/data_arm4,online,malware_download,elf
+URLhaus,3900275,2026-08-09 15:20:11,http://109.248.160.75/data_powerpc,online,malware_download,elf
+URLhaus,3900276,2026-08-09 15:20:11,http://109.248.160.75/data_aarch64,online,malware_download,elf
+URLhaus,3900277,2026-08-09 15:20:11,http://109.248.160.75/data_x86,online,malware_download,elf
+URLhaus,3900271,2026-08-09 15:20:10,http://109.248.160.75/data_arm7,online,malware_download,elf
+URLhaus,3900272,2026-08-09 15:20:10,http://109.248.160.75/data_arm6,online,malware_download,elf
+URLhaus,3900273,2026-08-09 15:20:10,http://109.248.160.75/data_x86_64,online,malware_download,elf
+URLhaus,3900274,2026-08-09 15:20:10,http://109.248.160.75/data_arm5,online,malware_download,elf
+URLhaus,3900268,2026-08-09 15:09:36,http://109.248.160.75/data_mips,online,malware_download,elf
 URLhaus,3900267,2026-08-09 15:08:19,http://46.151.182.200/bins/bot.x86,online,malware_download,32-bit
+URLhaus,3900266,2026-08-09 15:08:18,http://109.248.160.75/data_mipsel,online,malware_download,elf
 URLhaus,3900265,2026-08-09 15:07:06,http://110.36.11.225:51361/i,online,malware_download,Mozi
 URLhaus,3900264,2026-08-09 14:58:15,http://123.10.145.33:33546/i,online,malware_download,32-bit
 URLhaus,3900263,2026-08-09 14:44:26,http://123.12.230.16:46574/i,online,malware_download,32-bit
@@ -268,33 +299,6 @@ URLhaus,3899866,2026-08-08 17:05:11,http://112.248.82.251:44283/i,online,malware
 URLhaus,3899831,2026-08-08 17:03:22,http://123.11.12.92:36844/i,online,malware_download,32-bit
 URLhaus,3899819,2026-08-08 16:36:24,http://123.11.12.92:36844/bin.sh,online,malware_download,32-bit
 URLhaus,3899818,2026-08-08 16:10:27,http://60.17.89.214:45559/i,online,malware_download,32-bit
-URLhaus,3899817,2026-08-08 16:10:24,http://chaninami123123.duckdns.org/manji.i486,online,malware_download,botnetdomain
-URLhaus,3899816,2026-08-08 15:54:34,http://www.chaninami123123.duckdns.org/manji.ppc,online,malware_download,botnetdomain
-URLhaus,3899813,2026-08-08 15:54:33,http://www.chaninami123123.duckdns.org/manji.arm5,online,malware_download,botnetdomain
-URLhaus,3899814,2026-08-08 15:54:33,http://chaninami123123.duckdns.org/manji.i686,online,malware_download,botnetdomain
-URLhaus,3899802,2026-08-08 15:54:31,http://www.chaninami123123.duckdns.org/manji.sh4,online,malware_download,botnetdomain
-URLhaus,3899803,2026-08-08 15:54:31,http://chaninami123123.duckdns.org/manji.arm6,online,malware_download,botnetdomain
-URLhaus,3899804,2026-08-08 15:54:31,http://chaninami123123.duckdns.org/manji.mpsl,online,malware_download,botnetdomain
-URLhaus,3899805,2026-08-08 15:54:31,http://chaninami123123.duckdns.org/manji.arm4,online,malware_download,botnetdomain
-URLhaus,3899806,2026-08-08 15:54:31,http://www.chaninami123123.duckdns.org/manji.x86,online,malware_download,botnetdomain
-URLhaus,3899807,2026-08-08 15:54:31,http://www.chaninami123123.duckdns.org/manji.mips,online,malware_download,botnetdomain
-URLhaus,3899808,2026-08-08 15:54:31,http://www.chaninami123123.duckdns.org/manji.m68k,online,malware_download,botnetdomain
-URLhaus,3899810,2026-08-08 15:54:31,http://www.chaninami123123.duckdns.org/manji.ppc440,online,malware_download,botnetdomain
-URLhaus,3899811,2026-08-08 15:54:31,http://chaninami123123.duckdns.org/manji.sh4,online,malware_download,botnetdomain
-URLhaus,3899812,2026-08-08 15:54:31,http://chaninami123123.duckdns.org/manji.arm5,online,malware_download,botnetdomain
-URLhaus,3899798,2026-08-08 15:54:25,http://chaninami123123.duckdns.org/manji.ppc,online,malware_download,botnetdomain
-URLhaus,3899799,2026-08-08 15:54:25,http://chaninami123123.duckdns.org/manji.arm7,online,malware_download,botnetdomain
-URLhaus,3899800,2026-08-08 15:54:25,http://www.chaninami123123.duckdns.org/manji.mpsl,online,malware_download,botnetdomain
-URLhaus,3899793,2026-08-08 15:54:22,http://chaninami123123.duckdns.org/manji.ppc440,online,malware_download,botnetdomain
-URLhaus,3899797,2026-08-08 15:54:22,http://www.chaninami123123.duckdns.org/manji.i686,online,malware_download,botnetdomain
-URLhaus,3899785,2026-08-08 15:54:16,http://www.chaninami123123.duckdns.org/manji.arm6,online,malware_download,botnetdomain
-URLhaus,3899784,2026-08-08 15:54:14,http://94.154.43.95/manji.i686,online,malware_download,94-154-43-95
-URLhaus,3899773,2026-08-08 15:53:29,http://94.154.43.95/manji.i486,online,malware_download,94-154-43-95
-URLhaus,3899776,2026-08-08 15:53:29,http://94.154.43.95/manji.arm6,online,malware_download,94-154-43-95
-URLhaus,3899767,2026-08-08 15:53:28,http://94.154.43.95/manji.x86,online,malware_download,94-154-43-95
-URLhaus,3899768,2026-08-08 15:53:28,http://94.154.43.95/manji.sh4,online,malware_download,94-154-43-95
-URLhaus,3899769,2026-08-08 15:53:28,http://94.154.43.95/manji.arm4,online,malware_download,94-154-43-95
-URLhaus,3899770,2026-08-08 15:53:28,http://94.154.43.95/manji.mips,online,malware_download,94-154-43-95
 URLhaus,3899764,2026-08-08 15:34:19,http://60.17.89.214:45559/bin.sh,online,malware_download,32-bit
 URLhaus,3899763,2026-08-08 15:32:24,http://42.224.169.34:41660/i,online,malware_download,32-bit
 URLhaus,3899762,2026-08-08 15:32:12,http://182.119.58.252:48725/i,online,malware_download,Mozi
@@ -665,7 +669,6 @@ URLhaus,3897696,2026-08-06 09:02:36,http://180.120.7.20:44129/bin.sh,online,malw
 URLhaus,3897688,2026-08-06 08:24:24,https://www.mediafire.com/file/8cn8u1bn3jb5gep/file,online,malware_download,iso
 URLhaus,3897671,2026-08-06 08:07:15,http://5.182.210.174/ok,online,malware_download,ascii
 URLhaus,3897666,2026-08-06 07:40:30,http://111.127.232.94:58633/i,online,malware_download,32-bit
-URLhaus,3897655,2026-08-06 07:01:37,http://111.127.232.94:58633/bin.sh,online,malware_download,32-bit
 URLhaus,3897640,2026-08-06 06:43:13,http://192.255.159.254/70/img_202115.png,online,malware_download,AgentTesla
 URLhaus,3897635,2026-08-06 06:36:32,http://183.63.8.194:44654/i,online,malware_download,32-bit
 URLhaus,3897632,2026-08-06 06:27:05,http://216.9.224.73/33/img_190847.png,online,malware_download,rat
@@ -871,6 +874,7 @@ URLhaus,3895692,2026-08-02 23:11:22,http://95.155.151.113/d/xd.mips64,online,mal
 URLhaus,3895683,2026-08-02 23:11:21,http://95.155.151.113/d/xd.armv7l,online,malware_download,arm
 URLhaus,3895684,2026-08-02 23:11:21,http://95.155.151.113/d/xd.i586,online,malware_download,elf
 URLhaus,3895685,2026-08-02 23:11:21,http://95.155.151.113/d/xd.i386,online,malware_download,elf
+URLhaus,3895686,2026-08-02 23:11:21,http://95.155.151.113/d/xd.arm6n,online,malware_download,arm
 URLhaus,3895687,2026-08-02 23:11:21,http://95.155.151.113/d/xd.i486,online,malware_download,elf
 URLhaus,3895688,2026-08-02 23:11:21,http://95.155.151.113/d/xd.x86_64,online,malware_download,elf
 URLhaus,3895689,2026-08-02 23:11:21,http://95.155.151.113/d/xd.armv6l,online,malware_download,arm
@@ -924,6 +928,7 @@ URLhaus,3895246,2026-08-01 21:59:19,http://95.155.151.113/sensi_tp.sh,online,mal
 URLhaus,3895242,2026-08-01 21:59:18,http://95.155.151.113/sensi_hi.sh,online,malware_download,opendir
 URLhaus,3895240,2026-08-01 21:58:24,http://95.155.151.113/sensi_ct.sh,online,malware_download,opendir
 URLhaus,3895241,2026-08-01 21:58:24,http://95.155.151.113/sensi_hk.sh,online,malware_download,opendir
+URLhaus,3895239,2026-08-01 21:58:21,http://95.155.151.113/sensi_zh.sh,online,malware_download,opendir
 URLhaus,3895219,2026-08-01 21:32:16,http://123.148.218.17:43983/i,online,malware_download,32-bit
 URLhaus,3895218,2026-08-01 21:20:12,http://123.148.218.17:43983/bin.sh,online,malware_download,32-bit
 URLhaus,3895160,2026-08-01 11:56:34,http://112.239.251.230:33039/bin.sh,online,malware_download,mirai
@@ -1048,7 +1053,6 @@ URLhaus,3893662,2026-07-29 13:49:03,http://154.219.116.177/Mddos/Mddos.arm5,onli
 URLhaus,3893653,2026-07-29 13:48:59,http://39.108.72.32:9177/linux,online,malware_download,None
 URLhaus,3893654,2026-07-29 13:48:59,http://nossl.segfault.net/ssh-it-deploy.sh,online,malware_download,None
 URLhaus,3893655,2026-07-29 13:48:59,http://83.168.69.141/mips,online,malware_download,mirai
-URLhaus,3893650,2026-07-29 13:48:58,http://83.168.69.141/p2.sh,online,malware_download,mirai
 URLhaus,3893651,2026-07-29 13:48:58,http://43.252.159.79:51512/i,online,malware_download,Mozi
 URLhaus,3893644,2026-07-29 13:48:57,http://46.236.65.41:56440/i,online,malware_download,mirai
 URLhaus,3893646,2026-07-29 13:48:57,http://106.54.223.106/phpmyadmin/setup/lib/syscon,online,malware_download,CoinMiner
@@ -1440,6 +1444,7 @@ URLhaus,3887507,2026-07-17 07:08:41,http://205.237.110.232/tvt/mips,online,malwa
 URLhaus,3887508,2026-07-17 07:08:41,http://205.237.110.232/tvt/mpsl,online,malware_download,elf
 URLhaus,3887509,2026-07-17 07:08:41,http://205.237.110.232/tvt/arm5,online,malware_download,elf
 URLhaus,3887510,2026-07-17 07:08:41,http://205.237.110.232/tvt/x86,online,malware_download,elf
+URLhaus,3887219,2026-07-16 13:47:16,http://103.217.215.238:17645/.i,online,malware_download,hajime
 URLhaus,3887100,2026-07-16 08:22:06,http://46.236.65.155:56627/i,online,malware_download,Mozi
 URLhaus,3887088,2026-07-16 07:56:08,http://46.236.65.155:56627/bin.sh,online,malware_download,Mozi
 URLhaus,3887079,2026-07-16 07:41:20,https://deliverymailreport.co.za/img_053354.png,online,malware_download,rat
@@ -1510,6 +1515,25 @@ FeodoTracker,,2025-12-30 13:56:31,50.16.16.211,online,botnet_c2,online
 FeodoTracker,,2026-01-13 21:41:15,34.204.119.63,online,botnet_c2,offline
 FeodoTracker,,2026-02-17 05:41:23,178.62.3.223,online,botnet_c2,offline
 FeodoTracker,,2026-03-04 14:28:39,27.133.154.218,online,botnet_c2,offline
+ThreatFox,2026-08-09 18:01:03," ""1871371"," ""http://tokjoza.shop:5200/orders",online," ""url"," ""win.remus"
+ThreatFox,2026-08-09 18:00:58," ""1871370"," ""http://onesdto.shop:2535/collections",online," ""url"," ""win.remus"
+ThreatFox,2026-08-09 18:00:54," ""1871369"," ""http://beljaro.shop:2536/tags",online," ""url"," ""win.remus"
+ThreatFox,2026-08-09 17:47:06," ""1871368"," ""uaawnpt.en-us-en-us-echoxen.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 17:45:03," ""1871367"," ""en-us-en-us-echoxen.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 17:38:31," ""1871366"," ""tfgrzf.enus-bpzone.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 17:37:42," ""1871365"," ""enus-bpzone.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 17:13:00," ""1871364"," ""h0snck00.elcornerderaulmorote.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 17:05:06," ""1871363"," ""64.90.11.101:8089",online," ""ip:port"," ""unknown"
+ThreatFox,2026-08-09 17:03:21," ""1871362"," ""od8872b0.nurvearmor.us",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 16:59:54," ""1871361"," ""kiavqge.en-us-en-usa-audizen.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 16:54:31," ""1871360"," ""en-us-en-usa-audizen.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 16:39:07," ""1871359"," ""qkyear.en-usa-sugarmute.us",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 16:14:09," ""1871358"," ""uv8fudow.eng--keyslimdrops.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 16:05:04," ""1871356"," ""64.90.11.101:8001",online," ""ip:port"," ""unknown"
+ThreatFox,2026-08-09 15:58:59," ""1871355"," ""uamidyb.en-us-en-prostawive.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 15:55:03," ""1871354"," ""37.221.66.27:443",online," ""ip:port"," ""win.nanocore"
+ThreatFox,2026-08-09 15:54:00," ""1871353"," ""en-us-en-prostawive.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-09 15:36:52," ""1871350"," ""khypcp.en-usa-sightfresh.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-09 15:05:06," ""1871348"," ""64.90.11.101:3306",online," ""ip:port"," ""unknown"
 ThreatFox,2026-08-09 15:05:06," ""1871349"," ""64.90.11.101:9321",online," ""ip:port"," ""unknown"
 ThreatFox,2026-08-09 15:05:05," ""1871347"," ""64.90.11.101:80",online," ""ip:port"," ""unknown"
@@ -1648,7 +1672,6 @@ ThreatFox,2026-08-09 06:30:55," ""1871184"," ""94.154.43.87:8082",online," ""ip:
 ThreatFox,2026-08-09 06:30:55," ""1871186"," ""stoppingignpi.buzz",online," ""domain"," ""unknown"
 ThreatFox,2026-08-09 06:30:54," ""1871187"," ""rogethat231.icu",online," ""domain"," ""unknown"
 ThreatFox,2026-08-09 06:30:54," ""1871188"," ""tokerjoker.icu",online," ""domain"," ""unknown"
-ThreatFox,2026-08-09 06:30:53," ""1871191"," ""94.154.43.175:6794",online," ""ip:port"," ""elf.mirai"
 ThreatFox,2026-08-09 06:30:50," ""1871220"," ""http://223.123.124.0:54646/Mozi.m",online," ""url"," ""elf.mozi"
 ThreatFox,2026-08-09 06:30:48," ""1871221"," ""http://115.55.183.61:57147/Mozi.a",online," ""url"," ""elf.mozi"
 ThreatFox,2026-08-09 06:30:47," ""1871222"," ""http://182.116.13.153:48985/Mozi.m",online," ""url"," ""elf.mozi"
@@ -2641,271 +2664,16 @@ ThreatFox,2026-08-07 18:33:21," ""1870220"," ""103.83.86.215:6969",online," ""ip
 ThreatFox,2026-08-07 18:33:21," ""1870221"," ""103.83.86.215:4567",online," ""ip:port"," ""elf.mirai"
 ThreatFox,2026-08-07 18:33:20," ""1870222"," ""103.83.86.215:5555",online," ""ip:port"," ""elf.mirai"
 ThreatFox,2026-08-07 18:33:20," ""1870223"," ""103.83.86.215:2381",online," ""ip:port"," ""elf.mirai"
-ThreatFox,2026-08-07 18:20:03," ""1870213"," ""http://115.51.80.33:54187/Mozi.m",online," ""url"," ""elf.mozi"
-ThreatFox,2026-08-07 18:20:02," ""1870214"," ""http://139.135.40.99:46495/Mozi.m",online," ""url"," ""elf.mozi"
-ThreatFox,2026-08-07 18:19:45," ""1870215"," ""vmi3462151.contaboserver.net",online," ""domain"," ""unknown"
-ThreatFox,2026-08-07 17:56:36," ""1870212"," ""tuzjypl.en-echoxen-echoxen.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 17:55:08," ""1870211"," ""en-echoxen-echoxen.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 17:54:41," ""1870200"," ""grove53.com",online," ""domain"," ""osx.amos"
-ThreatFox,2026-08-07 17:54:40," ""1870201"," ""161.35.146.120:80",online," ""ip:port"," ""osx.amos"
-ThreatFox,2026-08-07 17:54:40," ""1870202"," ""http://161.35.146.120/contact",online," ""url"," ""osx.amos"
-ThreatFox,2026-08-07 17:54:39," ""1870203"," ""95ab5a61a0970410ada36ba843e55e270f38cb8e2eebf79254434948e11c870f",online," ""sha256_hash"," ""osx.amos"
-ThreatFox,2026-08-07 17:54:39," ""1870204"," ""85ffd3ab8ed16a565046b0dd1dfe88a1",online," ""md5_hash"," ""osx.amos"
-ThreatFox,2026-08-07 17:54:11," ""1870210"," ""0zrbstse.tiptop-shops.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 17:53:48," ""1870209"," ""byqpgf.digeststart.us",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 17:12:03," ""1870208"," ""wwtbgml.en-audizenn.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 17:10:01," ""1870207"," ""en-audizenn.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 17:09:29," ""1870206"," ""lvksnl.diegestistart.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 17:07:24," ""1870205"," ""diegestistart.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 16:52:30," ""1870199"," ""jvvd7wco.greenestreetchurch.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-07 16:43:17," ""1870198"," ""telemetras.pro",online," ""domain"," ""unknown"
-ThreatFox,2026-08-07 16:25:45," ""1870197"," ""jycatdj.echoxien.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 16:24:03," ""1870196"," ""echoxien.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 16:23:28," ""1870195"," ""vwydbb.cognisurgeusa.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 16:21:55," ""1870194"," ""cognisurgeusa.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 16:03:39," ""1869965"," ""prunarok.lol",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:39," ""1869966"," ""wuserrosok.cfd",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:38," ""1869967"," ""noabasteb.lol",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:37," ""1869968"," ""violcuglu.cfd",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:37," ""1869969"," ""frimwanbav.lol",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:37," ""1869970"," ""kefaisce.cfd",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:36," ""1869971"," ""feafetoboary.lol",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:36," ""1869972"," ""wuscokosh.cfd",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:36," ""1869973"," ""fleewakig.lol",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:35," ""1869974"," ""voskuzapoud.cfd",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:35," ""1869975"," ""spinbode.lol",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:34," ""1869976"," ""nujusnex.cfd",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:33," ""1869977"," ""freesilkirk.lol",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:33," ""1869979"," ""loajituzio.lol",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:32," ""1869978"," ""bairvitu.cfd",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:30," ""1869980"," ""pingtrack.click",online," ""domain"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:29," ""1869981"," ""b0209a56237964228cbd95cfe7ee4c639e20da8bfb01bc19e84e43cb3d832c01",online," ""sha256_hash"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:28," ""1869982"," ""c4a461b72c5bfa08d4bffa4d10d265d3777efeb4066566442b11220cd48b88c6",online," ""sha256_hash"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:28," ""1869983"," ""f31df9170d3d70c2e3a84e56f1dabe093f19c79013a4d741cda3697ab2a93eed",online," ""sha256_hash"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:28," ""1869984"," ""5fa116e699f23e230c6c17a47d499feae725069ec5186196df24a7346e0f77f5",online," ""sha256_hash"," ""win.amatera"
 ThreatFox,2026-08-07 16:03:26," ""1869985"," ""a7e8bb5263b34be020d8b5c938b4c4187f390b9240f9ce757cae953da9988227",online," ""sha256_hash"," ""win.amatera"
-ThreatFox,2026-08-07 16:03:00," ""1870193"," ""eyy5zzl6.greaternewzionbc.org",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 15:53:38," ""1870192"," ""ahealthymixture.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870171"," ""melissadarnay.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870172"," ""maurer-inet.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870173"," ""marthagracereese.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870174"," ""marmondesigns.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870175"," ""marcomgurus.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870176"," ""m-designbuild.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870177"," ""namodivine.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870178"," ""b2b.onlinezauber.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870179"," ""kemenbox.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870180"," ""flownavalarchitect.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870181"," ""ironjoe.ca",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-07 15:53:37," ""1870182"," ""enduraproductscorp.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870183"," ""innovity.africa",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-07 15:53:37," ""1870184"," ""ilhadospatudos.pt",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870185"," ""gruposedic.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-07 15:53:37," ""1870186"," ""glcontentstudio.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870187"," ""gigirestaurant.es",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870188"," ""georgebakes.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870189"," ""editorialsumma.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870190"," ""dubay-family.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:37," ""1870191"," ""safetyaudits.ai",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870152"," ""steammasters.pl",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870153"," ""lisatodd-author.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870154"," ""logboekenonline.nl",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870155"," ""wipdistribuzioni.it",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870156"," ""waldpause.net",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870157"," ""vyi.me",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870158"," ""vanhegan-ortho.co.uk",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870159"," ""rocasamultigestion.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870160"," ""richardtroxell.tv",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870161"," ""revistaatenea.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870162"," ""reversemortgagesinbc.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870163"," ""nomod.es",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870164"," ""noemielecorps.fr",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870165"," ""nguyenphucgiaonhan.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870166"," ""lepotentiel.bj",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870167"," ""addlifehealthcare.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870168"," ""movingtothegulfcoast.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870169"," ""mothercowsanctuary.com.au",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:36," ""1870170"," ""wavegrowth.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870132"," ""natur-und-haar.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870133"," ""geigercars.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870134"," ""sohighservice.pl",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870135"," ""intercongress.gmbh",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870136"," ""avaloneyecare.acedigitalsempire.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870137"," ""emtec-engineers.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870138"," ""headwayestimating.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870139"," ""corebilling.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870140"," ""animeclub2.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870141"," ""globelink.ca",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870142"," ""zinox.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870143"," ""nationalsoccertournament.org",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870144"," ""one-pager.noamvolk-studio.co.il",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870145"," ""bluegrassjustice.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870146"," ""nataschazeck.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870147"," ""teammarksmen.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870148"," ""kffclay.org",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870149"," ""goettinger-verschoenerungsverein.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870150"," ""loantechsupport.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:35," ""1870151"," ""bekmurat.kz",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870111"," ""theguestblogs.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870112"," ""mednart.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870113"," ""qesnet.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870114"," ""futurmoda.es",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870115"," ""bagla-group.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870116"," ""store.cprtrainingclinic.org",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-07 15:53:34," ""1870117"," ""safetyman.com.au",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870118"," ""officenmore.net",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870119"," ""jcdestinostravel.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870120"," ""myorbit.solutions",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870121"," ""incolora.org",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870122"," ""ekantam.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870123"," ""commongroundchattanoogatreeservice.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870124"," ""breville.id",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870125"," ""ozyhomes.com.au",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870126"," ""smartvisionhomes.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870127"," ""seamaxshipping.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870128"," ""authenticrespect.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870129"," ""mostcajun.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870130"," ""lifegetsbetter.help",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:34," ""1870131"," ""lifesensors.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870093"," ""santanvalleyemergencyplumbing.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870094"," ""law.asia",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870095"," ""sailawaze.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870096"," ""intecbrasil.com.br",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870097"," ""wardcommunities.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870098"," ""triton.com.pe",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870099"," ""stoswaldsdurham.net",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870100"," ""myoceanstyle.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-07 15:53:33," ""1870101"," ""shadescreekdental.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870102"," ""oxygenmc.ae",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870103"," ""hardmansigns.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870104"," ""sikkerhedsdoere.dk",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870105"," ""ipacketnet.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870106"," ""dgleletronica.com.br",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870107"," ""lamaindejeanne.fr",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870108"," ""baileyandsage.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870109"," ""electromekcontrol.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:33," ""1870110"," ""grupoaluman.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870074"," ""the-insurance-surgery.co.uk",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870075"," ""piraten-der-ostsee.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870076"," ""unlockedconsultancies.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870077"," ""teubes.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870078"," ""digitizedlogos.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870079"," ""suncore.tax",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870080"," ""website-95a90a43.nyc.nrr.temporary.site",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870081"," ""weecnetwork.org",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870082"," ""agentmonday.ai",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870083"," ""suncore.la",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870084"," ""advantage-management.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870085"," ""dullesairportservice.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870086"," ""valicomtech.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870087"," ""advancedrecruitingsolutions.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870088"," ""broadlinerecruiters.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870089"," ""tankoilgroup.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870090"," ""siteninestudios.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870091"," ""genungsfishcamp.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:32," ""1870092"," ""jonsdekkogfelg.no",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870058"," ""ostseeblick-schoenhagen.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870059"," ""sajoki.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870060"," ""pparesearch.org",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870061"," ""corporatecareeracademy.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870062"," ""we-careservice.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870063"," ""downloadteatv.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870064"," ""milehighdelivery.awkwardhosting.ca",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870065"," ""hitpoint.cz",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870066"," ""aubagueta.es",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870067"," ""rebuild.onlinezauber.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870068"," ""halac-naturstein.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870069"," ""slep-sluba-loznica.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870070"," ""speedoy.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870071"," ""towtrucknorthernbeaches.com.au",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870072"," ""trustedcasinoratings.site",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:31," ""1870073"," ""dmvlatinamassage.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870038"," ""freeedom.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870039"," ""habibadvogados.com.br",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870040"," ""dulili4you.com.au",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870041"," ""osk.nidzica.pl",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870042"," ""abu.edu.pl.geezek.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870043"," ""ahu.edu.pl.geezek.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870044"," ""skaparbubblan.se",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870045"," ""kabbalahstudent.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870046"," ""yeterpansiyon.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870047"," ""lexiumargumentum.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870048"," ""chaser-technologies.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870049"," ""executivesupport360.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870050"," ""nationwideautomotivelocksmith.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870051"," ""compostmanufacturingalliance.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870052"," ""agribusiness.com.pk",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870053"," ""soforadent.sk",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870054"," ""erniepost.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870055"," ""theshoeprojectstories.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870056"," ""extranetkghm.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:30," ""1870057"," ""braincareneurofeedback.com.br",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870021"," ""bassauer-malerbetrieb.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870022"," ""funeraillesderamaix.be",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870023"," ""prime-foods.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870024"," ""children-kingdom.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870025"," ""ravivcasuals.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870026"," ""pevict.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870027"," ""securefoodconsultoria.com.br",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870028"," ""barryperrin.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870029"," ""emprendesantander.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870030"," ""varo360.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870031"," ""games-store.biz",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870032"," ""miosso.com.br",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870033"," ""nonviolentcommunication.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870034"," ""fineartoffire.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870035"," ""crimejasoos.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870036"," ""throgmortonwealth.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:29," ""1870037"," ""niharikabhawanbooking.co.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870004"," ""coughzero.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870005"," ""cimec.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870006"," ""cyberhillpartners.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870007"," ""safeage.eu",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870008"," ""growth-formula.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870009"," ""boltonholdings.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870010"," ""sshussain.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870011"," ""glam-korea.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870012"," ""tiendaesotericos-garcia.es",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870013"," ""ludelivery.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870014"," ""alpinehc.au",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870015"," ""soldout.sonnyguitar.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870016"," ""wamproperties.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870017"," ""benhvienthammyhanviet.vn",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870018"," ""imperialbuildcon.in",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870019"," ""trungtamytethanhphonamdinh.vn",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:28," ""1870020"," ""nayaktourservice.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869990"," ""fbabros.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869991"," ""mefks.ae",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869992"," ""sandsbrokerageinc.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869993"," ""safeprotecthome.net",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869994"," ""test.makeabooking.co.uk",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869995"," ""capital-carpentry.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869996"," ""yeniakimekonomi.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869997"," ""ercanercan.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869998"," ""jetmail.com.tr",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1869999"," ""pp-bouwservice.nl",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1870000"," ""pipchristie.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1870001"," ""baotranhotel-pleiku.com.vn",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1870002"," ""smkpangudiluhur-mtl.sch.id",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:27," ""1870003"," ""talledo-serviciomusical.es",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:26," ""1869987"," ""nox-crete-latinamerica.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:26," ""1869988"," ""aegplc.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:53:26," ""1869989"," ""softcado.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-07 15:52:59," ""1869986"," ""di8fisku.tinyzonetv.im",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 15:45:05," ""1869964"," ""https://ttf.slotmacau188e.top/",online," ""url"," ""win.vidar"
-ThreatFox,2026-08-07 15:45:04," ""1869963"," ""ttf.slotmacau188e.top",online," ""domain"," ""win.vidar"
-ThreatFox,2026-08-07 15:41:29," ""1869962"," ""irical.cogniserge.us",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 15:40:16," ""1869961"," ""xwnmveu.echoxenweb.us",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 15:39:01," ""1869960"," ""echoxenweb.us",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 15:36:24," ""1869959"," ""cogniserge.us",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 15:26:24," ""1869943"," ""https://test-project-one-xi-63.vercel.app/api",online," ""url"," ""unknown"
 ThreatFox,2026-08-07 15:25:05," ""1869958"," ""https://ttf.bayototo.org/",online," ""url"," ""win.vidar"
 ThreatFox,2026-08-07 15:25:04," ""1869957"," ""ttf.bayototo.org",online," ""domain"," ""win.vidar"
-ThreatFox,2026-08-07 15:13:47," ""1869947"," ""whocanroastthemost.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-07 15:03:37," ""1869941"," ""stolyspawalnicze.pl",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-07 14:59:47," ""1869884"," ""167.172.188.177:8443",online," ""ip:port"," ""elf.aisuru"
-ThreatFox,2026-08-07 14:38:13," ""1869916"," ""revolutsupport.net",online," ""domain"," ""unknown"
-ThreatFox,2026-08-07 14:23:00," ""1869887"," ""headysecure.com",online," ""domain"," ""unknown"
 ThreatFox,2026-08-07 14:07:30," ""1869871"," ""echo-xen.us",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-07 14:05:23," ""1869870"," ""buy-ignitra.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-07 13:23:31," ""1869855"," ""165.245.178.39:8443",online," ""ip:port"," ""elf.aisuru"
@@ -2934,9 +2702,6 @@ ThreatFox,2026-08-07 08:53:59," ""1869740"," ""brain--defender.com",online," ""d
 ThreatFox,2026-08-07 08:30:16," ""1869731"," ""aaudizen.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-07 08:29:37," ""1869729"," ""bp-zone.us",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-07 07:25:12," ""1869593"," ""139.59.144.8:8443",online," ""ip:port"," ""elf.aisuru"
-ThreatFox,2026-08-07 07:25:12," ""1869613"," ""prestigechauffeurs.com.au",online," ""domain"," ""unknown"
-ThreatFox,2026-08-07 07:24:51," ""1869683"," ""http://165.22.69.214/cat.sh",online," ""url"," ""unknown"
-ThreatFox,2026-08-07 00:35:03," ""1869612"," ""soilvaporextraction.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-07 00:08:57," ""1869601"," ""valley-open-mri.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-06 23:46:46," ""1869592"," ""151.242.125.190:9527",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-08-06 19:46:26," ""1869558"," ""91.92.40.56:8888",online," ""ip:port"," ""win.pure_rat"
@@ -2957,20 +2722,13 @@ ThreatFox,2026-08-06 18:04:50," ""1869517"," ""triumphplumbinginc.com",online," 
 ThreatFox,2026-08-06 18:03:03," ""1869515"," ""victoryshoescorp.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-06 15:35:05," ""1869498"," ""https://web.bayototo.org/",online," ""url"," ""win.vidar"
 ThreatFox,2026-08-06 14:44:20," ""1869483"," ""cobbandcocourt.com.au",online," ""domain"," ""unknown"
-ThreatFox,2026-08-06 14:20:58," ""1869451"," ""hubcert.com.br",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-06 14:20:57," ""1869455"," ""siege-close.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-06 14:20:54," ""1869460"," ""cmaelevadores.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-06 14:20:53," ""1869461"," ""elenaargandona.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-06 14:20:53," ""1869462"," ""emsaluminium.fr",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-06 14:20:52," ""1869463"," ""encofradosamazon.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-06 14:20:50," ""1869466"," ""karmactive.com",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-06 14:20:47," ""1869469"," ""vamoscurtiromelhor.com.br",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-06 14:05:06," ""1869453"," ""103.213.248.61:7443",online," ""ip:port"," ""unknown"
 ThreatFox,2026-08-06 13:30:28," ""1869429"," ""takeoffdallas.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-06 13:05:05," ""1869416"," ""154.221.25.38:8080",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-08-06 12:45:00," ""1869410"," ""tadkaindiaka.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 12:44:26," ""1869409"," ""tiptop-shops.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 12:39:31," ""1869405"," ""tinyzonetv.im",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-06 12:32:36," ""1869404"," ""dayvillelaundry.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-06 12:29:56," ""1869402"," ""tacticalk9familycoin.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-06 11:55:05," ""1869385"," ""https://ign.bayototo.org/",online," ""url"," ""win.vidar"
@@ -3003,9 +2761,6 @@ ThreatFox,2026-08-06 07:10:07," ""1869279"," ""springsconstruction.net",online,"
 ThreatFox,2026-08-06 07:02:53," ""1869273"," ""188.166.222.192:8443",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-06 06:25:44," ""1869264"," ""storageinridgecrest.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-06 05:32:53," ""1869242"," ""specialtypopupevents.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 05:21:38," ""1869236"," ""azvalleycontractors.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 05:16:32," ""1869209"," ""naturheilpraxis-azo.ch",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 05:11:29," ""1869189"," ""manualdaprodutividade.com.br",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-06 05:10:22," ""1869082"," ""38.207.178.195:8001",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-06 05:10:20," ""1869122"," ""167.172.188.177:8001",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-06 05:10:19," ""1869123"," ""159.65.136.5:7647",online," ""ip:port"," ""win.remus"
@@ -3015,11 +2770,6 @@ ThreatFox,2026-08-06 05:10:16," ""1869126"," ""161.35.48.40:8001",online," ""ip:
 ThreatFox,2026-08-06 05:10:15," ""1869127"," ""165.245.178.39:8001",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-06 05:10:15," ""1869128"," ""139.59.144.8:8001",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-06 05:10:14," ""1869133"," ""38.207.178.195:8443",online," ""ip:port"," ""elf.aisuru"
-ThreatFox,2026-08-06 05:06:28," ""1869186"," ""abdullahkonsultan.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 05:06:27," ""1869182"," ""secondchanceaid.org",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 05:01:21," ""1869171"," ""pacificpeaksbuilders.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 04:51:16," ""1869154"," ""siammusicclub.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-06 04:46:11," ""1869143"," ""vision-o.ch",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-05 23:47:16," ""1869105"," ""217.154.212.25:4444",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-08-05 23:46:54," ""1869104"," ""100.82.195.65:4444",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-08-05 23:46:49," ""1869103"," ""hp.tailc223d4.ts.net",online," ""domain"," ""win.cobalt_strike"
@@ -3049,8 +2799,6 @@ ThreatFox,2026-08-05 19:05:06," ""1869030"," ""158.220.100.51:7443",online," ""i
 ThreatFox,2026-08-05 19:05:05," ""1869029"," ""134.209.146.147:7443",online," ""ip:port"," ""unknown"
 ThreatFox,2026-08-05 18:40:05," ""1869026"," ""https://spc.y8slot.net/",online," ""url"," ""win.vidar"
 ThreatFox,2026-08-05 17:05:05," ""1869000"," ""8.156.69.157:443",online," ""ip:port"," ""win.cobalt_strike"
-ThreatFox,2026-08-05 16:55:41," ""1868975"," ""radioafriquefrance.fr",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-08-05 16:55:39," ""1868951"," ""gpsbyte.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-08-05 13:40:56," ""1868882"," ""195.222.53.130:2930",online," ""ip:port"," ""win.remus"
 ThreatFox,2026-08-05 13:27:18," ""1868874"," ""142.132.211.95:4938",online," ""ip:port"," ""win.remus"
 ThreatFox,2026-08-05 11:47:40," ""1868828"," ""47.83.3.103:10443",online," ""ip:port"," ""win.cobalt_strike"
@@ -3186,7 +2934,6 @@ ThreatFox,2026-08-03 08:50:30," ""1867714"," ""https://62.238.55.102/",online," 
 ThreatFox,2026-08-03 08:50:28," ""1867700"," ""https://37.27.193.182/",online," ""url"," ""win.vidar"
 ThreatFox,2026-08-03 08:50:28," ""1867702"," ""https://37.27.197.184/",online," ""url"," ""win.vidar"
 ThreatFox,2026-08-03 08:50:20," ""1867668"," ""https://vog.peluangsm188.top/",online," ""url"," ""win.vidar"
-ThreatFox,2026-08-03 08:40:47," ""1867634"," ""137.184.199.120:8443",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-03 07:05:06," ""1867640"," ""92.119.158.20:7443",online," ""ip:port"," ""unknown"
 ThreatFox,2026-08-03 01:05:05," ""1867590"," ""82.156.11.154:8082",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-08-02 19:45:45," ""1867535"," ""38.60.230.135:6606",online," ""ip:port"," ""win.asyncrat"
@@ -3284,6 +3031,7 @@ ThreatFox,2026-08-01 06:28:01," ""1866367"," ""137.184.70.190:8001",online," ""i
 ThreatFox,2026-08-01 06:28:01," ""1866374"," ""103.214.146.46:8443",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-01 06:28:00," ""1866401"," ""206.189.81.41:8443",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-01 06:28:00," ""1866418"," ""167.99.64.180:8443",online," ""ip:port"," ""elf.aisuru"
+ThreatFox,2026-08-01 06:27:58," ""1866467"," ""167.99.64.180:8080",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-01 06:27:58," ""1866470"," ""167.172.71.69:8443",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-01 06:27:58," ""1866514"," ""143.198.206.191:8443",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-01 06:27:53," ""1866530"," ""206.189.81.41:8080",online," ""ip:port"," ""elf.aisuru"
@@ -3333,6 +3081,7 @@ ThreatFox,2026-07-31 09:43:27," ""1866008"," ""13.205.246.212:443",online," ""ip
 ThreatFox,2026-07-31 09:43:15," ""1866007"," ""104.243.248.63:3608",online," ""ip:port"," ""win.asyncrat"
 ThreatFox,2026-07-31 07:13:36," ""1865331"," ""www.gaia-us.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-07-31 07:12:38," ""1865279"," ""zryjsmacznie.pl",online," ""domain"," ""js.iclickfix"
+ThreatFox,2026-07-31 07:12:32," ""1865178"," ""www.pvlive.eu",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-07-31 05:45:43," ""1865067"," ""27.71.16.98:443",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-07-31 05:45:41," ""1865072"," ""124.220.34.180:6666",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-07-31 05:45:40," ""1865074"," ""111.170.148.141:113",online," ""ip:port"," ""win.cobalt_strike"
@@ -3467,12 +3216,9 @@ ThreatFox,2026-07-29 08:58:01," ""1863241"," ""192.229.115.162:56004",online," "
 ThreatFox,2026-07-29 08:58:00," ""1863230"," ""192.229.115.154:56004",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 08:58:00," ""1863234"," ""192.229.115.156:56004",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 08:58:00," ""1863237"," ""192.229.115.162:56003",online," ""ip:port"," ""win.pure_rat"
-ThreatFox,2026-07-29 08:57:58," ""1863202"," ""www.docteur-garcia.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-07-29 08:57:56," ""1863164"," ""185.247.208.91:443",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 08:57:56," ""1863169"," ""185.254.99.153:56001",online," ""ip:port"," ""win.pure_rat"
-ThreatFox,2026-07-29 08:57:54," ""1863131"," ""tierradefantasia.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-07-29 08:57:52," ""1863089"," ""185.174.101.235:55555",online," ""ip:port"," ""win.pure_rat"
-ThreatFox,2026-07-29 08:57:50," ""1863059"," ""salvaproductions.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-07-29 08:57:48," ""1863051"," ""181.215.242.78:56003",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 08:57:48," ""1863052"," ""181.215.242.84:56003",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 08:57:46," ""1863050"," ""178.211.155.64:443",online," ""ip:port"," ""win.pure_rat"
@@ -3487,8 +3233,6 @@ ThreatFox,2026-07-29 08:57:21," ""1863041"," ""151.242.63.129:443",online," ""ip
 ThreatFox,2026-07-29 08:57:21," ""1863042"," ""151.242.97.15:56831",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 08:57:12," ""1863040"," ""140.228.29.61:443",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 08:56:51," ""1862853"," ""103.114.218.145:443",online," ""ip:port"," ""win.pure_rat"
-ThreatFox,2026-07-29 08:55:54," ""1862833"," ""funnel.kreatifabrik.de",online," ""domain"," ""js.iclickfix"
-ThreatFox,2026-07-29 08:55:50," ""1862755"," ""ciccioroomsandbreakfast.it",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-07-29 07:42:09," ""1861775"," ""176.96.136.230:56001",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 07:42:09," ""1861777"," ""45.192.211.7:56002",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-29 07:42:08," ""1861778"," ""103.68.109.13:56002",online," ""ip:port"," ""win.pure_rat"
@@ -3580,8 +3324,6 @@ ThreatFox,2026-07-27 15:21:52," ""1860583"," ""yvesrxkzcdxycnarab.crownconnectpk
 ThreatFox,2026-07-27 13:42:57," ""1860536"," ""160.119.71.120:8001",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-07-27 13:25:21," ""1860247"," ""193.233.198.62:56001",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-07-27 11:46:45," ""1860224"," ""47.103.214.7:18443",online," ""ip:port"," ""win.cobalt_strike"
-ThreatFox,2026-07-27 10:51:40," ""1860207"," ""menoracarpet.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-07-27 10:51:38," ""1860191"," ""imed.asia",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-07-27 09:46:11," ""1860093"," ""94.154.32.56:27221",online," ""ip:port"," ""win.asyncrat"
 ThreatFox,2026-07-27 09:46:10," ""1860092"," ""94.154.32.56:27220",online," ""ip:port"," ""win.asyncrat"
 ThreatFox,2026-07-27 09:46:09," ""1860091"," ""91.92.40.96:443",online," ""ip:port"," ""win.havoc"
@@ -3610,6 +3352,7 @@ ThreatFox,2026-07-26 19:44:16," ""1858980"," ""2.27.248.237:80",online," ""ip:po
 ThreatFox,2026-07-26 19:44:08," ""1858979"," ""192.162.199.143:8848",online," ""ip:port"," ""win.dcrat"
 ThreatFox,2026-07-26 19:43:54," ""1858978"," ""176.65.149.209:3043",online," ""ip:port"," ""win.bianlian"
 ThreatFox,2026-07-26 19:43:42," ""1858977"," ""157.20.182.22:4442",online," ""ip:port"," ""win.asyncrat"
+ThreatFox,2026-07-26 10:55:50," ""1857981"," ""198.98.53.100:8080",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-07-26 09:45:52," ""1858181"," ""5.181.181.12:5443",online," ""ip:port"," ""unknown"
 ThreatFox,2026-07-26 09:44:26," ""1858180"," ""199.246.88.101:5432",online," ""ip:port"," ""unknown"
 ThreatFox,2026-07-26 09:43:12," ""1858179"," ""103.67.163.201:7707",online," ""ip:port"," ""win.asyncrat"
@@ -3627,7 +3370,6 @@ ThreatFox,2026-07-25 19:43:29," ""1857716"," ""141.255.164.33:80",online," ""ip:
 ThreatFox,2026-07-25 19:43:11," ""1857715"," ""103.67.163.201:8808",online," ""ip:port"," ""win.asyncrat"
 ThreatFox,2026-07-25 11:46:12," ""1857363"," ""38.54.89.235:6688",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-07-25 11:45:55," ""1857362"," ""117.28.246.18:8067",online," ""ip:port"," ""win.cobalt_strike"
-ThreatFox,2026-07-25 11:04:47," ""1856988"," ""viajexpress.com",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-07-25 11:02:40," ""1857246"," ""198.98.53.100:9034",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-07-25 10:43:43," ""1857339"," ""157.20.182.21:6666",online," ""ip:port"," ""win.asyncrat"
 ThreatFox,2026-07-25 09:46:00," ""1857317"," ""74.249.84.175:4321",online," ""ip:port"," ""win.adaptix_c2"
@@ -4058,10 +3800,6 @@ ThreatFox,2026-07-09 19:43:40," ""1847746"," ""155.103.71.115:13507",online," ""
 ThreatFox,2026-07-09 19:43:24," ""1847745"," ""13.70.174.70:443",online," ""ip:port"," ""win.remcos"
 ThreatFox,2026-07-09 19:43:22," ""1847744"," ""122.114.12.155:17891",online," ""ip:port"," ""win.adaptix_c2"
 ThreatFox,2026-07-09 19:43:21," ""1847743"," ""115.42.60.122:7912",online," ""ip:port"," ""win.dcrat"
-ThreatFox,2026-07-09 15:33:25," ""1847400"," ""lojajlcelular.com.br",online," ""domain"," ""unknown_stealer"
-ThreatFox,2026-07-09 15:33:16," ""1847264"," ""elnathglobalaccess.com",online," ""domain"," ""unknown_stealer"
-ThreatFox,2026-07-09 15:33:14," ""1847239"," ""danielnavas.es",online," ""domain"," ""unknown_stealer"
-ThreatFox,2026-07-09 15:33:11," ""1847200"," ""brassianmedia.com",online," ""domain"," ""unknown_stealer"
 ThreatFox,2026-07-09 14:05:07," ""1847105"," ""157.20.182.18:4442",online," ""ip:port"," ""win.asyncrat"
 ThreatFox,2026-07-09 11:47:21," ""1847068"," ""203.91.75.89:5006",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-07-09 09:46:37," ""1847007"," ""91.92.242.180:1880",online," ""ip:port"," ""win.remcos"
@@ -4117,7 +3855,6 @@ ThreatFox,2026-07-08 19:43:14," ""1846731"," ""104.64.192.34:6933",online," ""ip
 ThreatFox,2026-07-08 19:43:13," ""1846730"," ""104.168.7.195:31897",online," ""ip:port"," ""win.remcos"
 ThreatFox,2026-07-08 19:43:09," ""1846729"," ""103.11.41.20:516",online," ""ip:port"," ""win.remcos"
 ThreatFox,2026-07-08 19:43:06," ""1846728"," ""103.11.41.10:51768",online," ""ip:port"," ""win.remcos"
-ThreatFox,2026-07-08 19:28:43," ""1846720"," ""abenegihugu.com",online," ""domain"," ""unknown_stealer"
 ThreatFox,2026-07-08 11:46:49," ""1846504"," ""185.92.190.185:8898",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-07-08 11:46:49," ""1846505"," ""185.92.190.187:8898",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-07-08 11:46:47," ""1846503"," ""173.249.27.195:80",online," ""ip:port"," ""win.cobalt_strike"
@@ -4320,7 +4057,6 @@ ThreatFox,2026-06-26 19:45:25," ""1838183"," ""82.165.79.60:1336",online," ""ip:
 ThreatFox,2026-06-26 13:36:12," ""1838134"," ""fg-analytics.biz",online," ""domain"," ""unknown"
 ThreatFox,2026-06-26 12:25:15," ""1838123"," ""https://k1h.hopesm188.top/",online," ""url"," ""win.vidar"
 ThreatFox,2026-06-26 12:25:15," ""1838124"," ""k1h.hopesm188.top",online," ""domain"," ""win.vidar"
-ThreatFox,2026-06-26 10:46:13," ""1838095"," ""gtadirectwindowsdoors.ca",online," ""domain"," ""js.iclickfix"
 ThreatFox,2026-06-26 07:18:38," ""1837880"," ""122.51.221.207:80",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-06-25 21:05:09," ""1837848"," ""49.232.4.71:8888",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-06-25 19:45:00," ""1837840"," ""217.60.97.3:8899",online," ""ip:port"," ""win.adaptix_c2"
@@ -4364,8 +4100,6 @@ ThreatFox,2026-06-22 07:00:13," ""1835387"," ""196.251.121.90:419",online," ""ip
 ThreatFox,2026-06-22 07:00:13," ""1835388"," ""196.251.121.90:425",online," ""ip:port"," ""win.tofsee"
 ThreatFox,2026-06-22 07:00:13," ""1835389"," ""196.251.121.90:427",online," ""ip:port"," ""win.tofsee"
 ThreatFox,2026-06-22 07:00:12," ""1835385"," ""217.60.241.14:419",online," ""ip:port"," ""win.tofsee"
-ThreatFox,2026-06-21 22:58:28," ""1835230"," ""reparaciondeneverasenbogota.com.co",online," ""domain"," ""win.remus"
-ThreatFox,2026-06-21 22:58:26," ""1835162"," ""lieto.hu",online," ""domain"," ""win.remus"
 ThreatFox,2026-06-21 09:45:40," ""1834771"," ""89.42.134.220:6606",online," ""ip:port"," ""win.asyncrat"
 ThreatFox,2026-06-21 09:45:23," ""1834770"," ""51.79.51.255:4321",online," ""ip:port"," ""win.adaptix_c2"
 ThreatFox,2026-06-21 09:45:12," ""1834769"," ""45.81.243.44:7707",online," ""ip:port"," ""win.asyncrat"
@@ -4482,6 +4216,7 @@ ThreatFox,2026-06-10 09:44:56," ""1825862"," ""23.95.220.192:43999",online," ""i
 ThreatFox,2026-06-10 09:44:00," ""1825853"," ""192.208.12.91:3000",online," ""ip:port"," ""elf.evilginx"
 ThreatFox,2026-06-10 09:43:35," ""1825850"," ""163.245.217.48:3333",online," ""ip:port"," ""elf.evilginx"
 ThreatFox,2026-06-10 07:18:53," ""1825788"," ""34.92.128.98:80",online," ""ip:port"," ""win.cobalt_strike"
+ThreatFox,2026-06-10 06:44:39," ""1825759"," ""195.222.53.130:5200",online," ""ip:port"," ""win.remus"
 ThreatFox,2026-06-10 06:00:25," ""1825703"," ""8.163.59.20:8008",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-06-10 03:45:38," ""1825678"," ""218.244.142.4:8889",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-06-09 21:45:51," ""1825631"," ""198.46.199.110:53",online," ""ip:port"," ""win.cobalt_strike"
@@ -4652,7 +4387,6 @@ ThreatFox,2026-05-14 12:34:22," ""1812073"," ""87.120.107.68:7777",online," ""ip
 ThreatFox,2026-05-14 12:33:41," ""1812137"," ""207.56.226.75:80",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-05-14 09:51:34," ""1812126"," ""84.46.251.62:4321",online," ""ip:port"," ""win.adaptix_c2"
 ThreatFox,2026-05-13 19:44:54," ""1811945"," ""43.230.162.44:14321",online," ""ip:port"," ""win.adaptix_c2"
-ThreatFox,2026-05-12 14:55:04," ""1810868"," ""uitjesscheveningen.nl",online," ""domain"," ""win.vidar"
 ThreatFox,2026-05-12 11:45:38," ""1811412"," ""117.72.168.103:50011",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-05-12 09:45:14," ""1811399"," ""85.158.57.247:4321",online," ""ip:port"," ""win.adaptix_c2"
 ThreatFox,2026-05-12 09:43:06," ""1811385"," ""104.243.248.63:1803",online," ""ip:port"," ""win.asyncrat"
@@ -5100,13 +4834,11 @@ ThreatFox,2025-12-02 12:51:03," ""1666137"," ""8.137.149.67:8091",online," ""ip:
 ThreatFox,2025-12-01 14:57:52," ""1665523"," ""http://213.5.130.104",online," ""url"," ""unknown"
 ThreatFox,2025-12-01 14:57:52," ""1665524"," ""http://213.5.130.180",online," ""url"," ""unknown"
 ThreatFox,2025-12-01 14:57:50," ""1665525"," ""http://213.5.130.106",online," ""url"," ""unknown"
-ThreatFox,2025-12-01 14:57:49," ""1665526"," ""http://213.5.130.102",online," ""url"," ""unknown"
 ThreatFox,2025-12-01 14:57:49," ""1665527"," ""http://213.5.130.152",online," ""url"," ""unknown"
 ThreatFox,2025-12-01 14:57:49," ""1665528"," ""http://213.5.130.107",online," ""url"," ""unknown"
 ThreatFox,2025-12-01 14:57:49," ""1665529"," ""http://213.5.130.153",online," ""url"," ""unknown"
 ThreatFox,2025-12-01 14:57:48," ""1665530"," ""http://213.5.130.100",online," ""url"," ""unknown"
 ThreatFox,2025-12-01 14:57:48," ""1665531"," ""http://213.5.130.182",online," ""url"," ""unknown"
-ThreatFox,2025-12-01 14:57:47," ""1665532"," ""http://213.5.130.181",online," ""url"," ""unknown"
 ThreatFox,2025-12-01 12:36:20," ""1665454"," ""122.114.10.199:8001",online," ""ip:port"," ""win.sliver"
 ThreatFox,2025-12-01 06:57:39," ""1665331"," ""47.84.83.56:31337",online," ""ip:port"," ""win.sliver"
 ThreatFox,2025-11-29 12:00:52," ""1663012"," ""47.236.56.15:4445",online," ""ip:port"," ""win.cobalt_strike"
