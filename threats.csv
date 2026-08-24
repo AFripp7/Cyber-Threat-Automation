@@ -1,4 +1,23 @@
 source,id,date_added,url,status,threat_type,malware_family
+URLhaus,3907732,2026-08-24 18:25:25,http://42.228.46.70:60400/i,online,malware_download,32-bit
+URLhaus,3907731,2026-08-24 18:22:21,http://115.57.16.71:56706/bin.sh,online,malware_download,32-bit
+URLhaus,3907730,2026-08-24 18:21:24,http://119.117.252.99:43457/i,online,malware_download,32-bit
+URLhaus,3907729,2026-08-24 18:20:19,http://119.117.252.99:43457/bin.sh,online,malware_download,32-bit
+URLhaus,3907728,2026-08-24 18:08:25,http://125.44.220.239:56935/bin.sh,online,malware_download,32-bit
+URLhaus,3907727,2026-08-24 17:50:29,http://42.228.46.70:60400/bin.sh,online,malware_download,32-bit
+URLhaus,3907726,2026-08-24 17:46:33,http://175.165.122.113:34835/i,online,malware_download,32-bit
+URLhaus,3907725,2026-08-24 17:33:26,http://115.50.34.46:47112/bin.sh,online,malware_download,32-bit
+URLhaus,3907724,2026-08-24 17:05:17,http://175.165.122.113:34835/bin.sh,online,malware_download,32-bit
+URLhaus,3907723,2026-08-24 17:02:13,http://42.224.96.245:56165/i,online,malware_download,Mozi
+URLhaus,3907722,2026-08-24 15:57:14,http://61.53.132.103:47751/i,online,malware_download,32-bit
+URLhaus,3907721,2026-08-24 15:52:12,http://125.44.220.243:39647/i,online,malware_download,Mozi
+URLhaus,3907720,2026-08-24 15:51:24,http://176.77.51.48:28807/bin.sh,online,malware_download,32-bit
+URLhaus,3907719,2026-08-24 15:51:17,http://125.44.220.243:39647/bin.sh,online,malware_download,Mozi
+URLhaus,3907718,2026-08-24 15:50:30,http://221.15.190.91:52122/i,online,malware_download,32-bit
+URLhaus,3907717,2026-08-24 15:49:31,http://105.184.150.73:43923/i,online,malware_download,32-bit
+URLhaus,3907716,2026-08-24 15:41:26,http://218.59.108.201:48468/bin.sh,online,malware_download,32-bit
+URLhaus,3907715,2026-08-24 15:36:13,http://125.44.254.60:50850/i,online,malware_download,Mozi
+URLhaus,3907714,2026-08-24 15:26:10,http://182.120.165.195:34416/i,online,malware_download,Mozi
 URLhaus,3907713,2026-08-24 15:22:29,http://221.15.190.91:52122/bin.sh,online,malware_download,32-bit
 URLhaus,3907712,2026-08-24 15:20:08,https://triapfog.com/security/c8ppwoye50,online,malware_download,None
 URLhaus,3907708,2026-08-24 15:15:24,http://103.172.186.170:58973/i,online,malware_download,32-bit
@@ -16,7 +35,6 @@ URLhaus,3907685,2026-08-24 13:27:12,http://27.206.185.202:40429/i,online,malware
 URLhaus,3907684,2026-08-24 13:26:25,http://120.57.126.32:57417/bin.sh,online,malware_download,32-bit
 URLhaus,3907683,2026-08-24 13:22:08,http://101.17.194.207:57975/bin.sh,online,malware_download,mirai
 URLhaus,3907680,2026-08-24 13:16:11,http://196.188.141.17:35121/i,online,malware_download,mirai
-URLhaus,3907677,2026-08-24 13:12:11,http://91.92.242.236/files-129312398/files/file_28ae045da50f3847.exe,online,malware_download,c2-monitor-auto
 URLhaus,3907678,2026-08-24 13:12:11,http://91.92.242.236/files-129312398/files/file_def37db2c5087baa.exe,online,malware_download,c2-monitor-auto
 URLhaus,3907672,2026-08-24 13:12:09,http://91.92.242.236/files-129312398/files/file_83a2a92978b8b2a2.exe,online,malware_download,c2-monitor-auto
 URLhaus,3907666,2026-08-24 13:12:08,http://196.251.107.186/clpmem.exe,online,malware_download,None
@@ -66,6 +84,7 @@ URLhaus,3907517,2026-08-24 10:01:24,http://216.249.4.20:46827/i,online,malware_d
 URLhaus,3907518,2026-08-24 10:01:24,http://175.172.9.203:35384/i,online,malware_download,None
 URLhaus,3907519,2026-08-24 10:01:24,http://182.120.138.14:53227/i,online,malware_download,Mozi
 URLhaus,3907520,2026-08-24 10:01:24,http://89.189.181.54:45438/i,online,malware_download,None
+URLhaus,3907521,2026-08-24 10:01:24,http://59.58.115.150:34302/bin.sh,online,malware_download,mirai
 URLhaus,3907522,2026-08-24 10:01:24,http://176.106.241.72:39541/bin.sh,online,malware_download,Mozi
 URLhaus,3907525,2026-08-24 10:01:24,http://123.188.94.210:49613/bin.sh,online,malware_download,None
 URLhaus,3907527,2026-08-24 10:01:24,http://123.8.88.188:59140/i,online,malware_download,Mozi
@@ -100,7 +119,6 @@ URLhaus,3907493,2026-08-24 10:01:18,http://210.208.111.234:49160/bin.sh,online,m
 URLhaus,3907478,2026-08-24 10:01:17,http://188.16.85.54:34815/bin.sh,online,malware_download,Mozi
 URLhaus,3907479,2026-08-24 10:01:17,http://188.16.85.54:34815/i,online,malware_download,Mozi
 URLhaus,3907480,2026-08-24 10:01:17,http://42.53.55.170:47643/bin.sh,online,malware_download,None
-URLhaus,3907481,2026-08-24 10:01:17,http://39.77.48.16:34314/bin.sh,online,malware_download,Mozi
 URLhaus,3907482,2026-08-24 10:01:17,http://27.220.83.105:42030/bin.sh,online,malware_download,Mozi
 URLhaus,3907477,2026-08-24 10:01:13,http://65.99.181.12:49304/Mozi.m,online,malware_download,None
 URLhaus,3907473,2026-08-24 09:46:30,http://123.189.151.32:39869/bin.sh,online,malware_download,32-bit
@@ -141,6 +159,7 @@ URLhaus,3907356,2026-08-24 00:38:25,http://182.126.249.70:50922/bin.sh,online,ma
 URLhaus,3907350,2026-08-23 23:13:30,http://122.241.8.175:37163/i,online,malware_download,32-bit
 URLhaus,3907349,2026-08-23 22:58:25,http://185.205.226.191:38313/i,online,malware_download,32-bit
 URLhaus,3907347,2026-08-23 22:31:27,http://72.255.30.244:49904/i,online,malware_download,32-bit
+URLhaus,3907346,2026-08-23 22:27:27,http://210.208.110.21:44337/i,online,malware_download,32-bit
 URLhaus,3907345,2026-08-23 22:09:13,http://185.205.226.191:38313/bin.sh,online,malware_download,32-bit
 URLhaus,3907344,2026-08-23 22:06:18,http://72.255.30.244:49904/bin.sh,online,malware_download,32-bit
 URLhaus,3907343,2026-08-23 21:57:16,http://210.208.110.21:44337/bin.sh,online,malware_download,32-bit
@@ -204,12 +223,10 @@ URLhaus,3907198,2026-08-23 10:01:21,http://115.55.55.56:36789/bin.sh,online,malw
 URLhaus,3907200,2026-08-23 10:01:21,http://42.53.55.170:47643/i,online,malware_download,None
 URLhaus,3907202,2026-08-23 10:01:21,http://115.98.147.69:48442/bin.sh,online,malware_download,Mozi
 URLhaus,3907176,2026-08-23 10:01:15,http://119.117.164.177:41723/bin.sh,online,malware_download,None
-URLhaus,3907141,2026-08-23 10:01:14,http://27.204.195.233:38896/bin.sh,online,malware_download,Mozi
 URLhaus,3907143,2026-08-23 10:01:14,http://183.188.77.45:12907/bin.sh,online,malware_download,Mozi
 URLhaus,3907148,2026-08-23 10:01:14,http://163.142.92.235:39139/bin.sh,online,malware_download,None
 URLhaus,3907151,2026-08-23 10:01:14,http://175.150.176.248:50980/bin.sh,online,malware_download,None
 URLhaus,3907153,2026-08-23 10:01:14,http://66.8.135.142:58566/bin.sh,online,malware_download,Mozi
-URLhaus,3907155,2026-08-23 10:01:14,http://113.230.30.175:47203/bin.sh,online,malware_download,None
 URLhaus,3907158,2026-08-23 10:01:14,http://39.77.48.16:34314/i,online,malware_download,Mozi
 URLhaus,3907165,2026-08-23 10:01:14,http://116.140.187.100:34139/i,online,malware_download,None
 URLhaus,3907168,2026-08-23 10:01:14,http://115.55.55.56:36789/i,online,malware_download,Mozi
@@ -242,7 +259,6 @@ URLhaus,3907054,2026-08-22 20:30:21,http://61.137.198.130:51494/bin.sh,online,ma
 URLhaus,3907048,2026-08-22 19:58:13,http://175.165.142.110:57080/i,online,malware_download,32-bit
 URLhaus,3907043,2026-08-22 19:32:11,http://175.165.142.110:57080/bin.sh,online,malware_download,32-bit
 URLhaus,3907037,2026-08-22 19:20:11,http://217.64.135.181:55489/i,online,malware_download,32-bit
-URLhaus,3907032,2026-08-22 18:46:13,http://222.243.95.50:59704/i,online,malware_download,mirai
 URLhaus,3907025,2026-08-22 18:11:13,http://113.232.254.209:49853/i,online,malware_download,32-bit
 URLhaus,3907019,2026-08-22 17:28:08,http://27.219.119.136:59026/i,online,malware_download,32-bit
 URLhaus,3907018,2026-08-22 17:20:15,http://61.137.206.166:45619/bin.sh,online,malware_download,32-bit
@@ -253,6 +269,7 @@ URLhaus,3906999,2026-08-22 14:13:09,http://175.146.117.140:46175/i,online,malwar
 URLhaus,3906988,2026-08-22 14:12:22,http://176.65.139.139/i686,online,malware_download,176-65-139-139
 URLhaus,3906990,2026-08-22 14:12:22,http://176.65.139.139/mpsl,online,malware_download,176-65-139-139
 URLhaus,3906991,2026-08-22 14:12:22,http://176.65.139.139/mips,online,malware_download,176-65-139-139
+URLhaus,3906992,2026-08-22 14:12:22,http://176.65.139.139/persist.arm7,online,malware_download,176-65-139-139
 URLhaus,3906993,2026-08-22 14:12:22,http://176.65.139.139/arm7,online,malware_download,176-65-139-139
 URLhaus,3906994,2026-08-22 14:12:22,http://176.65.139.139/sh4,online,malware_download,176-65-139-139
 URLhaus,3906995,2026-08-22 14:12:22,http://176.65.139.139/x86,online,malware_download,176-65-139-139
@@ -308,10 +325,13 @@ URLhaus,3906677,2026-08-22 02:01:29,http://222.223.152.97:800/lilin.sh,online,ma
 URLhaus,3906679,2026-08-22 02:01:29,http://222.223.152.97:800/m.i686,online,malware_download,elf
 URLhaus,3906680,2026-08-22 02:01:29,http://222.223.152.97:800/m.x86_64,online,malware_download,elf
 URLhaus,3906681,2026-08-22 02:01:29,http://222.223.152.97:800/m.armv4l,online,malware_download,arm
+URLhaus,3906682,2026-08-22 02:01:29,http://222.223.152.97:800/m.armv7l,online,malware_download,arm
 URLhaus,3906683,2026-08-22 02:01:29,http://222.223.152.97:800/m.armv6l,online,malware_download,arm
 URLhaus,3906684,2026-08-22 02:01:29,http://222.223.152.97:800/m.i486,online,malware_download,elf
 URLhaus,3906676,2026-08-22 01:52:07,http://222.136.52.188:32973/i,online,malware_download,Mozi
 URLhaus,3906675,2026-08-22 01:49:14,http://42.4.17.29:54916/i,online,malware_download,32-bit
+URLhaus,3906661,2026-08-21 23:03:31,http://114.228.132.133:38637/i,online,malware_download,32-bit
+URLhaus,3906637,2026-08-21 19:06:13,http://42.177.103.199:46495/i,online,malware_download,32-bit
 URLhaus,3906636,2026-08-21 18:50:19,http://42.177.103.199:46495/bin.sh,online,malware_download,32-bit
 URLhaus,3906635,2026-08-21 18:48:15,http://220.192.234.145:55381/i,online,malware_download,32-bit
 URLhaus,3906634,2026-08-21 18:21:18,http://220.192.234.145:55381/bin.sh,online,malware_download,32-bit
@@ -320,8 +340,8 @@ URLhaus,3906622,2026-08-21 16:06:20,http://125.112.59.91:60395/i,online,malware_
 URLhaus,3906620,2026-08-21 15:39:28,http://68.168.20.218:18081/f8YlUiZDcEOZ,online,malware_download,elf
 URLhaus,3906619,2026-08-21 15:05:25,http://61.137.251.126:60468/i,online,malware_download,32-bit
 URLhaus,3906618,2026-08-21 14:43:28,http://125.112.59.91:60395/bin.sh,online,malware_download,32-bit
-URLhaus,3906617,2026-08-21 14:37:25,http://61.137.251.126:60468/bin.sh,online,malware_download,32-bit
 URLhaus,3906616,2026-08-21 14:32:34,http://117.26.82.102:41542/i,online,malware_download,32-bit
+URLhaus,3906615,2026-08-21 14:12:50,http://31.4.254.241:52598/bin.sh,online,malware_download,32-bit
 URLhaus,3906611,2026-08-21 14:01:07,http://42.59.235.202:51478/i,online,malware_download,None
 URLhaus,3906607,2026-08-21 13:33:12,http://46.236.65.230:33052/i,online,malware_download,32-bit
 URLhaus,3906606,2026-08-21 13:32:17,http://46.236.65.230:33052/bin.sh,online,malware_download,32-bit
@@ -457,7 +477,6 @@ URLhaus,3905702,2026-08-19 10:01:26,http://61.184.10.103/syss,online,malware_dow
 URLhaus,3905700,2026-08-19 10:01:24,http://60.18.84.125:39736/i,online,malware_download,None
 URLhaus,3905691,2026-08-19 10:01:23,http://27.7.157.56:57185/i,online,malware_download,Mozi
 URLhaus,3905693,2026-08-19 10:01:23,http://42.54.8.116:37031/bin.sh,online,malware_download,None
-URLhaus,3905677,2026-08-19 10:01:22,http://42.86.128.27:34669/bin.sh,online,malware_download,None
 URLhaus,3905668,2026-08-19 10:01:20,http://72.29.46.195:43633/i,online,malware_download,Mozi
 URLhaus,3905653,2026-08-19 10:01:15,http://122.139.14.243:51081/i,online,malware_download,mirai
 URLhaus,3905636,2026-08-19 10:01:14,http://27.37.102.157:50864/i,online,malware_download,None
@@ -480,6 +499,8 @@ URLhaus,3905495,2026-08-19 00:54:12,http://98.252.87.232:48523/bin.sh,online,mal
 URLhaus,3905487,2026-08-18 23:26:15,http://60.23.192.74:54261/i,online,malware_download,32-bit
 URLhaus,3905482,2026-08-18 22:58:09,http://60.23.192.74:54261/bin.sh,online,malware_download,32-bit
 URLhaus,3905470,2026-08-18 21:29:05,http://178.16.55.240/nmm/a,online,malware_download,dropped-by-Phorpiex
+URLhaus,3905456,2026-08-18 19:46:05,http://178.16.55.240/a,online,malware_download,dropped-by-Phorpiex
+URLhaus,3905453,2026-08-18 19:27:05,http://178.16.55.240/nm/a,online,malware_download,dropped-by-Phorpiex
 URLhaus,3905449,2026-08-18 18:46:07,http://103.160.130.178:42478/i,online,malware_download,Mozi
 URLhaus,3905448,2026-08-18 18:27:19,http://85.12.251.50:45018/i,online,malware_download,32-bit
 URLhaus,3905447,2026-08-18 18:22:06,http://103.160.130.178:42478/bin.sh,online,malware_download,Mozi
@@ -566,7 +587,6 @@ URLhaus,3904604,2026-08-17 04:37:13,http://91.92.47.97/bins/bot.arm8,online,malw
 URLhaus,3904606,2026-08-17 04:37:13,http://91.92.47.97/bins/bot.ppc440,online,malware_download,elf
 URLhaus,3904607,2026-08-17 04:37:13,http://91.92.47.97/bins/bot.arm5,online,malware_download,arm
 URLhaus,3904608,2026-08-17 04:37:13,http://91.92.47.97/bins/bot.arc,online,malware_download,arc
-URLhaus,3904609,2026-08-17 04:37:13,http://91.92.47.97/bins/bot.spc,online,malware_download,elf
 URLhaus,3904610,2026-08-17 04:37:13,http://91.92.47.97/bins/bot.mips,online,malware_download,elf
 URLhaus,3904611,2026-08-17 04:37:13,http://91.92.47.97/bins/bot.arm6,online,malware_download,arm
 URLhaus,3904612,2026-08-17 04:37:13,http://91.92.47.97/bins/bot.x86_64,online,malware_download,elf
@@ -623,9 +643,7 @@ URLhaus,3904254,2026-08-16 10:01:12,http://193.163.187.213:45749/bin.sh,online,m
 URLhaus,3904255,2026-08-16 10:01:12,http://46.236.65.163:51558/i,online,malware_download,Mozi
 URLhaus,3904262,2026-08-16 10:01:12,http://46.236.65.23:41753/bin.sh,online,malware_download,None
 URLhaus,3904253,2026-08-16 10:01:11,http://46.236.65.23:41753/i,online,malware_download,None
-URLhaus,3904248,2026-08-16 09:25:11,https://217.60.241.32/Bin/ScreenConnect.ClientSetup.exe,online,malware_download,217-60-241-32
 URLhaus,3904247,2026-08-16 09:25:08,https://217.60.241.32/bin/support.client.exe,online,malware_download,217-60-241-32
-URLhaus,3904115,2026-08-15 23:50:18,http://175.146.231.101:47081/i,online,malware_download,32-bit
 URLhaus,3904073,2026-08-15 17:03:41,http://2.26.81.46/pandora.x86_64,online,malware_download,elf
 URLhaus,3904050,2026-08-15 15:45:10,https://kryptonclientliista.lovable.app/__l5e/assets-v1/a2ff2b05-f09a-413d-96b1-14a028790953/KryptonPlus-LIISTA.jar,online,malware_download,jar
 URLhaus,3904049,2026-08-15 15:45:08,http://192.162.199.149/uploads/d6a0dbb9ae834113a8401012b1f9aa18.exe,online,malware_download,exe
@@ -656,6 +674,7 @@ URLhaus,3903466,2026-08-14 06:21:07,http://217.60.36.94/test/test.bef_fri,online
 URLhaus,3903443,2026-08-14 05:41:18,http://144.31.30.228/linux_arm7,online,malware_download,144-31-30-228
 URLhaus,3903444,2026-08-14 05:41:18,http://144.31.30.228/linux_arm64,online,malware_download,144-31-30-228
 URLhaus,3903445,2026-08-14 05:41:18,http://144.31.30.228/linux_mips,online,malware_download,144-31-30-228
+URLhaus,3903446,2026-08-14 05:41:18,http://144.31.30.228/linux_mips64,online,malware_download,144-31-30-228
 URLhaus,3903447,2026-08-14 05:41:18,http://144.31.30.228/linux_arm5,online,malware_download,144-31-30-228
 URLhaus,3903448,2026-08-14 05:41:18,http://144.31.30.228/linux_amd64,online,malware_download,144-31-30-228
 URLhaus,3903442,2026-08-14 05:37:17,http://2.26.81.46/eclipse.x86_64,online,malware_download,2-26-81-46
@@ -677,6 +696,7 @@ URLhaus,3903437,2026-08-14 05:36:16,http://2.26.81.46/bins/i686,online,malware_d
 URLhaus,3903438,2026-08-14 05:36:16,http://2.26.81.46/bins/spc,online,malware_download,2-26-81-46
 URLhaus,3903439,2026-08-14 05:36:16,http://2.26.81.46/bins/arm,online,malware_download,2-26-81-46
 URLhaus,3903418,2026-08-14 05:15:25,http://31.76.20.19/armv6l,online,malware_download,31-76-20-19
+URLhaus,3903419,2026-08-14 05:15:25,http://31.76.20.19/mips,online,malware_download,31-76-20-19
 URLhaus,3903412,2026-08-14 05:15:24,http://31.76.20.19/armv7l,online,malware_download,31-76-20-19
 URLhaus,3903413,2026-08-14 05:15:24,http://31.76.20.19/i686,online,malware_download,31-76-20-19
 URLhaus,3903414,2026-08-14 05:15:24,http://31.76.20.19/x86,online,malware_download,31-76-20-19
@@ -795,6 +815,7 @@ URLhaus,3902194,2026-08-11 14:20:25,http://176.65.139.247/meow.sh,online,malware
 URLhaus,3902181,2026-08-11 14:03:57,http://36.255.97.21/bot.mips,online,malware_download,censys
 URLhaus,3902179,2026-08-11 14:03:56,http://62.84.172.106/dlr.sparc,online,malware_download,censys
 URLhaus,3902174,2026-08-11 14:03:14,http://36.255.97.21/bot.arm,online,malware_download,censys
+URLhaus,3902175,2026-08-11 14:03:14,http://62.84.172.106/sys64.arm6,online,malware_download,censys
 URLhaus,3902176,2026-08-11 14:03:14,http://62.84.172.106/sys64.arm,online,malware_download,censys
 URLhaus,3902177,2026-08-11 14:03:14,http://62.84.172.106/dlr.arm,online,malware_download,censys
 URLhaus,3902178,2026-08-11 14:03:14,http://36.255.97.21/bot.sh4,online,malware_download,censys
@@ -845,6 +866,8 @@ URLhaus,3902089,2026-08-11 13:56:12,http://93.114.194.171/d/arm7,online,malware_
 URLhaus,3902091,2026-08-11 13:56:12,http://93.114.194.171/d/sharp.sh,online,malware_download,censys
 URLhaus,3902092,2026-08-11 13:56:12,http://93.114.194.171/d/toto.sh,online,malware_download,censys
 URLhaus,3902093,2026-08-11 13:56:12,http://93.114.194.171/d/jaws.sh,online,malware_download,censys
+URLhaus,3902066,2026-08-11 12:51:14,http://176.65.139.247/armv4l,online,malware_download,elf
+URLhaus,3902067,2026-08-11 12:51:14,http://176.65.139.247/armv5l,online,malware_download,elf
 URLhaus,3902068,2026-08-11 12:51:14,http://176.65.139.247/mips,online,malware_download,elf
 URLhaus,3902065,2026-08-11 12:51:07,http://176.65.139.247/armv7l,online,malware_download,elf
 URLhaus,3902064,2026-08-11 12:50:16,http://176.65.139.247/mipsel,online,malware_download,elf
@@ -871,6 +894,7 @@ URLhaus,3902041,2026-08-11 12:18:11,http://8.219.85.120:60142/linux,online,malwa
 URLhaus,3902007,2026-08-11 11:53:18,http://176.65.139.211/cli,online,malware_download,censys
 URLhaus,3902008,2026-08-11 11:53:18,http://176.65.139.211/Error84,online,malware_download,censys
 URLhaus,3902004,2026-08-11 11:53:17,http://176.65.139.211/cliaarch,online,malware_download,censys
+URLhaus,3902005,2026-08-11 11:53:17,http://176.65.139.211/boss,online,malware_download,censys
 URLhaus,3902006,2026-08-11 11:53:17,http://176.65.139.211/main,online,malware_download,censys
 URLhaus,3901986,2026-08-11 11:52:48,http://216.9.226.120/nuts/poop,online,malware_download,censys
 URLhaus,3901984,2026-08-11 11:52:27,http://176.65.139.211/1,online,malware_download,censys
@@ -886,6 +910,7 @@ URLhaus,3901956,2026-08-11 11:52:22,http://176.65.139.238/static/js/sdfjgnjsdf.m
 URLhaus,3901958,2026-08-11 11:52:22,http://176.65.139.242/static/js/sdfjgnjsdf.mips,online,malware_download,censys
 URLhaus,3901959,2026-08-11 11:52:22,http://176.65.139.238/static/js/sdfjgnjsdf.sh4,online,malware_download,censys
 URLhaus,3901961,2026-08-11 11:52:22,http://176.65.139.211/nvidia.sh,online,malware_download,censys
+URLhaus,3901962,2026-08-11 11:52:22,http://176.65.139.241/static/js/sdfjgnjsdf.m68k,online,malware_download,censys
 URLhaus,3901963,2026-08-11 11:52:22,http://176.65.139.241/static/js/sdfjgnjsdf.i686,online,malware_download,censys
 URLhaus,3901964,2026-08-11 11:52:22,http://176.65.139.241/static/js/sdfjgnjsdf.ppc,online,malware_download,censys
 URLhaus,3901965,2026-08-11 11:52:22,http://176.65.139.242/static/js/sdfjgnjsdf.arm6,online,malware_download,censys
@@ -1025,6 +1050,7 @@ URLhaus,3901770,2026-08-11 10:53:11,http://176.65.139.196/arm,online,malware_dow
 URLhaus,3901758,2026-08-11 10:53:09,http://176.65.139.196/bins/pmpsl,online,malware_download,176-65-139-196
 URLhaus,3901759,2026-08-11 10:53:09,http://176.65.139.196/m68k,online,malware_download,176-65-139-196
 URLhaus,3901760,2026-08-11 10:53:09,http://176.65.139.196/bins/arm6,online,malware_download,176-65-139-196
+URLhaus,3901761,2026-08-11 10:53:09,http://176.65.139.196/bins/sh4,online,malware_download,176-65-139-196
 URLhaus,3901762,2026-08-11 10:53:09,http://176.65.139.196/bins/psh4,online,malware_download,176-65-139-196
 URLhaus,3901763,2026-08-11 10:53:09,http://176.65.139.196/bins/kla.sh,online,malware_download,176-65-139-196
 URLhaus,3901764,2026-08-11 10:53:09,http://176.65.139.196/kla.sh,online,malware_download,176-65-139-196
@@ -1091,6 +1117,7 @@ URLhaus,3901183,2026-08-10 21:01:57,http://124.235.239.199:45573/bin.sh,online,m
 URLhaus,3900997,2026-08-10 14:43:10,http://107.175.88.87/23/img_185335.png,online,malware_download,rat
 URLhaus,3900995,2026-08-10 14:42:09,http://172.245.195.245/35/img_190431.png,online,malware_download,rat
 URLhaus,3900992,2026-08-10 14:39:09,https://rcf.co.mz/Godabeg1.exe,online,malware_download,exe
+URLhaus,3900989,2026-08-10 14:29:16,http://130.12.182.77/tvt.sh,online,malware_download,mirai
 URLhaus,3900952,2026-08-10 12:00:14,http://91.92.242.236/files-129312398/files/file_e8219df7a9a21088.exe,online,malware_download,54e64e
 URLhaus,3900945,2026-08-10 10:49:19,http://58.22.18.152:33899/bin.sh,online,malware_download,32-bit
 URLhaus,3900898,2026-08-10 10:01:33,http://47.84.190.146:9593/linux,online,malware_download,None
@@ -1117,11 +1144,16 @@ URLhaus,3899966,2026-08-08 20:34:48,https://github.com/CoopeRlOq9/Project-Zomboi
 URLhaus,3899961,2026-08-08 20:33:35,https://github.com/BeamChunin42/jennymod-installer/releases/download/latest/JennyMod.zip,online,malware_download,fake-software
 URLhaus,3899914,2026-08-08 17:33:12,https://github.com/Seung90912/sad23213zxc/raw/refs/heads/main/freebobux.exe,online,malware_download,exe
 URLhaus,3899867,2026-08-08 17:06:20,http://45.207.196.86/cat.sh,online,malware_download,45-207-196-86
+URLhaus,3899244,2026-08-08 13:07:06,http://178.16.54.109/locopoco,online,malware_download,dropped-by-Phorpiex
 URLhaus,3898916,2026-08-08 10:01:22,http://123.170.100.105:42942/i,online,malware_download,mirai
 URLhaus,3898792,2026-08-08 06:50:07,https://quick-load.vercel.app/api/settings/bootstraplinux,online,malware_download,ua-curl
 URLhaus,3898747,2026-08-08 06:41:20,http://91.92.242.236/files-129312398/files/file_bec865d8acfd0630.exe,online,malware_download,c2-monitor-auto
 URLhaus,3898724,2026-08-08 04:04:07,http://178.16.54.109/molakc,online,malware_download,dropped-by-Phorpiex
 URLhaus,3898667,2026-08-07 21:21:16,http://130.12.182.77/main.e500mc,online,malware_download,elf
+URLhaus,3898668,2026-08-07 21:21:16,http://130.12.182.77/main.x86-i686,online,malware_download,elf
+URLhaus,3898671,2026-08-07 21:21:16,http://130.12.182.77/main.mips32r6el,online,malware_download,elf
+URLhaus,3898680,2026-08-07 21:21:16,http://130.12.182.77/main.mips32r5el,online,malware_download,elf
+URLhaus,3898684,2026-08-07 21:21:16,http://130.12.182.77/main.sparcv8,online,malware_download,elf
 URLhaus,3898660,2026-08-07 21:21:07,http://130.12.182.77/main.mips64-n32,online,malware_download,elf
 URLhaus,3898639,2026-08-07 18:36:06,https://quick-load.vercel.app/api/settings/bootstrap,online,malware_download,ua-curl
 URLhaus,3898640,2026-08-07 18:36:06,https://quick-load.vercel.app/api/settings/package,online,malware_download,ua-curl
@@ -1137,7 +1169,6 @@ URLhaus,3898525,2026-08-07 12:08:09,http://107.175.88.87/22/goodpersonforbestthi
 URLhaus,3898464,2026-08-07 10:01:34,http://42.85.180.51:37572/bin.sh,online,malware_download,None
 URLhaus,3898442,2026-08-07 10:01:32,http://42.54.177.157:60692/bin.sh,online,malware_download,None
 URLhaus,3898395,2026-08-07 10:01:16,http://123.170.100.105:42942/bin.sh,online,malware_download,mirai
-URLhaus,3898376,2026-08-07 10:01:15,http://204.244.176.203:60318/i,online,malware_download,Mozi
 URLhaus,3898349,2026-08-06 21:45:24,http://85.137.245.141:9001/1.exe,online,malware_download,85-137-245-141-9001
 URLhaus,3898348,2026-08-06 21:45:22,http://85.137.245.141:9001/2.exe,online,malware_download,85-137-245-141-9001
 URLhaus,3898148,2026-08-06 19:41:14,http://www.knockknock.top/fxrgbtj/gxcjtky/zkeibpn/stego_4ehpd80tsq.png,online,malware_download,HypeAgent
@@ -1145,14 +1176,16 @@ URLhaus,3898111,2026-08-06 18:56:20,http://217.60.195.219/ty/load.bat,online,mal
 URLhaus,3898085,2026-08-06 18:14:22,http://193.104.58.65/yuxwormaugust.png,online,malware_download,xworm
 URLhaus,3898066,2026-08-06 18:08:22,http://152.32.240.167:9556/linux,online,malware_download,None
 URLhaus,3897984,2026-08-06 14:22:28,https://download.tfyxzai.com/donwnload/prortonvpn_x64.zip,online,malware_download,32-bit
+URLhaus,3897948,2026-08-06 13:13:38,http://130.12.182.77/main.x86_64,online,malware_download,elf
 URLhaus,3897946,2026-08-06 13:12:39,http://130.12.182.77/main.e300c3,online,malware_download,elf
 URLhaus,3897938,2026-08-06 13:11:44,http://130.12.182.77/main.armv7-eabihf,online,malware_download,arm
 URLhaus,3897939,2026-08-06 13:11:44,http://130.12.182.77/main.arc700,online,malware_download,arc
-URLhaus,3897942,2026-08-06 13:11:44,http://130.12.182.77/main.armv4eb,online,malware_download,arm
 URLhaus,3897943,2026-08-06 13:11:44,http://130.12.182.77/main.microblazebe,online,malware_download,elf
+URLhaus,3897935,2026-08-06 13:10:38,http://130.12.182.77/main.archs38,online,malware_download,elf
 URLhaus,3897936,2026-08-06 13:10:38,http://130.12.182.77/main.armebv7,online,malware_download,arm
+URLhaus,3897926,2026-08-06 13:10:35,http://130.12.182.77/main.microblazeel,online,malware_download,elf
+URLhaus,3897931,2026-08-06 13:10:35,http://130.12.182.77/main.mips,online,malware_download,elf
 URLhaus,3897866,2026-08-06 10:02:29,http://46.236.65.141:33052/i,online,malware_download,Mozi
-URLhaus,3897745,2026-08-06 10:01:31,http://27.215.183.207:40430/i,online,malware_download,Mozi
 URLhaus,3897704,2026-08-06 09:13:25,https://sales.ifree.page/img_131252.png,online,malware_download,Formbook
 URLhaus,3897698,2026-08-06 09:05:22,https://rcf.co.mz/Chrome01.exe,online,malware_download,exe
 URLhaus,3897671,2026-08-06 08:07:15,http://5.182.210.174/ok,online,malware_download,ascii
@@ -1218,7 +1251,9 @@ URLhaus,3896647,2026-08-04 06:34:28,http://156.226.174.98/huhu/titanjr.ppc,onlin
 URLhaus,3896648,2026-08-04 06:34:28,http://156.226.174.98/huhu/titanjr.i686,online,malware_download,censys
 URLhaus,3896632,2026-08-04 06:34:27,http://156.226.174.98/huhu/titanjr.mips,online,malware_download,censys
 URLhaus,3896635,2026-08-04 06:34:27,http://156.226.174.98/huhu/titanjr.i486,online,malware_download,censys
+URLhaus,3896636,2026-08-04 06:34:27,http://156.226.174.98/huhu/titanjr.arm6,online,malware_download,censys
 URLhaus,3896639,2026-08-04 06:34:27,http://156.226.174.98/huhu/titanjr.ppc440,online,malware_download,censys
+URLhaus,3896640,2026-08-04 06:34:27,http://156.226.174.98/huhu/titanjr.sh4,online,malware_download,censys
 URLhaus,3896642,2026-08-04 06:34:27,http://156.226.174.98/huhu/titanjr.arc,online,malware_download,censys
 URLhaus,3896643,2026-08-04 06:34:27,http://156.226.174.98/huhu/titanjr.arm,online,malware_download,censys
 URLhaus,3896644,2026-08-04 06:34:27,http://156.226.174.98/huhu/titanjr.spc,online,malware_download,censys
@@ -1280,11 +1315,9 @@ URLhaus,3893822,2026-07-29 13:51:07,http://47.243.208.30:8329/linux,online,malwa
 URLhaus,3893821,2026-07-29 13:50:59,http://120.77.79.42:9290/linux,online,malware_download,None
 URLhaus,3893816,2026-07-29 13:49:47,https://github.com/chaitin/xray/releases/download/1.9.11/xray_linux_amd64.zip,online,malware_download,None
 URLhaus,3893811,2026-07-29 13:49:46,https://github.com/Fahrj/reverse-ssh/releases/download/v1.2.0/upx_reverse-sshx64,online,malware_download,ReverseSSH
-URLhaus,3893806,2026-07-29 13:49:44,http://47.121.184.138:9823/linux,online,malware_download,None
 URLhaus,3893807,2026-07-29 13:49:44,https://github.com/mingkwind/sshcrack/releases/download/sshcrack/sshcrack_linux.zip,online,malware_download,None
 URLhaus,3893808,2026-07-29 13:49:44,https://github.com/xmrig/xmrig/releases/download/v6.26.0/xmrig-6.26.0-linux-static-x64.tar.gz,online,malware_download,None
 URLhaus,3893809,2026-07-29 13:49:44,https://release-assets.githubusercontent.com/github-production-release-asset/88327406/ecfabc02-9e68-4cec-a6d1-a0e7773d900e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-07T10%3A13%3A53Z&rscd=attachment%3B+filename%3Dxmrig-6.26.0-linux-static-x64.tar.gz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-07T09%3A13%3A04Z&ske=2026-05-07T10%3A13%3A53Z&sks=b&skv=2018-11-09&sig=tqkUB8UR8dDaWsq4EPd8gk73jfcczAUzxFvWcl1k7Ks%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3ODE0NTU3MiwibmJmIjoxNzc4MTQ1MjcyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.AoUYU6vHNh7_Rqn7cD0BnhiAUg92Hu2skK6zWJr2qBg&response-content-disposition=attachment%3B%20filename%3Dxmrig-6.26.0-linux-static-x64.tar.gz&response-content-type=application%2Foctet-stream,online,malware_download,None
-URLhaus,3893810,2026-07-29 13:49:44,http://106.14.58.169:60145/linux,online,malware_download,None
 URLhaus,3893791,2026-07-29 13:49:38,http://83.168.69.141/sh4,online,malware_download,mirai
 URLhaus,3893783,2026-07-29 13:49:35,http://177.22.88.133:8080/.x/pax.txt,online,malware_download,None
 URLhaus,3893761,2026-07-29 13:49:29,http://83.168.69.141/armv7l,online,malware_download,mirai
@@ -1295,7 +1328,6 @@ URLhaus,3893748,2026-07-29 13:49:27,https://raw.githubusercontent.com/mahdiMGF2/
 URLhaus,3893744,2026-07-29 13:49:26,http://5.202.46.59:57264/i,online,malware_download,None
 URLhaus,3893739,2026-07-29 13:49:25,https://github.com/xmrig/xmrig/releases/download/v6.21.0/xmrig-6.21.0-linux-x64.tar.gz,online,malware_download,None
 URLhaus,3893723,2026-07-29 13:49:21,https://github.com/kryptex-miners-org/kryptex-miners/releases/download/lolminer-1-98a/lolMiner_v1.98a_Lin64.tar.gz,online,malware_download,None
-URLhaus,3893724,2026-07-29 13:49:21,http://39.81.37.15:40232/i,online,malware_download,Mozi
 URLhaus,3893718,2026-07-29 13:49:19,http://31.170.22.205/dl601,online,malware_download,None
 URLhaus,3893717,2026-07-29 13:49:18,http://83.168.69.141/armv4l,online,malware_download,mirai
 URLhaus,3893698,2026-07-29 13:49:12,http://83.168.69.141/sparc,online,malware_download,mirai
@@ -1312,7 +1344,6 @@ URLhaus,3893626,2026-07-29 13:48:54,http://83.168.69.141/m68k,online,malware_dow
 URLhaus,3893629,2026-07-29 13:48:54,http://83.168.69.141/i486,online,malware_download,mirai
 URLhaus,3893622,2026-07-29 13:48:52,http://83.168.69.141/aarch64,online,malware_download,mirai
 URLhaus,3893618,2026-07-29 13:48:50,http://112.229.203.112:37340/i,online,malware_download,Mozi
-URLhaus,3893619,2026-07-29 13:48:50,http://47.103.197.73:6288/linux,online,malware_download,None
 URLhaus,3893620,2026-07-29 13:48:50,http://85.12.205.35:42988/i,online,malware_download,None
 URLhaus,3893607,2026-07-29 13:48:46,http://43.245.39.42:53867/i,online,malware_download,Mozi
 URLhaus,3893585,2026-07-29 13:48:44,http://147.182.224.216/kes.pl,online,malware_download,None
@@ -1386,7 +1417,6 @@ URLhaus,3893006,2026-07-28 14:24:30,http://31-56-209-153.cprapid.com/nz/nz.mips,
 URLhaus,3893007,2026-07-28 14:24:30,http://31-56-209-153.cprapid.com/nz/nz.x86,online,malware_download,31-56-209-153-cprapid-com
 URLhaus,3893008,2026-07-28 14:24:30,http://31-56-209-153.cprapid.com/nz.sh,online,malware_download,31-56-209-153-cprapid-com
 URLhaus,3893009,2026-07-28 14:24:30,http://31-56-209-153.cprapid.com/nz/nz.arc,online,malware_download,31-56-209-153-cprapid-com
-URLhaus,3893010,2026-07-28 14:24:30,http://31-56-209-153.cprapid.com/nz/nz.arm7,online,malware_download,31-56-209-153-cprapid-com
 URLhaus,3892997,2026-07-28 14:24:27,http://31-56-209-153.cprapid.com/nz/nz.arm,online,malware_download,31-56-209-153-cprapid-com
 URLhaus,3892998,2026-07-28 14:24:27,http://31-56-209-153.cprapid.com/nz/nz.spc,online,malware_download,31-56-209-153-cprapid-com
 URLhaus,3892995,2026-07-28 14:24:24,http://wqok85qtq.net/nz.sh,online,malware_download,botnetdomain
@@ -1419,7 +1449,6 @@ URLhaus,3892325,2026-07-27 00:19:14,http://121.202.142.137:26355/i,online,malwar
 URLhaus,3892317,2026-07-26 23:54:18,http://121.202.142.137:26355/bin.sh,online,malware_download,32-bit
 URLhaus,3892232,2026-07-26 17:49:21,http://31.56.209.153/nz/nz.arm7,online,malware_download,arm
 URLhaus,3892224,2026-07-26 17:48:19,http://31.56.209.153/nz/nz.arm5,online,malware_download,arm
-URLhaus,3892225,2026-07-26 17:48:19,http://31.56.209.153/nz/nz.arc,online,malware_download,arc
 URLhaus,3892226,2026-07-26 17:48:19,http://31.56.209.153/nz/nz.arm6,online,malware_download,arm
 URLhaus,3892227,2026-07-26 17:48:19,http://31.56.209.153/nz/nz.spc,online,malware_download,elf
 URLhaus,3892228,2026-07-26 17:48:19,http://31.56.209.153/nz/nz.i686,online,malware_download,elf
@@ -1427,11 +1456,11 @@ URLhaus,3892229,2026-07-26 17:48:19,http://31.56.209.153/nz/nz.m68k,online,malwa
 URLhaus,3892230,2026-07-26 17:48:19,http://31.56.209.153/nz/nz.arm,online,malware_download,arm
 URLhaus,3892215,2026-07-26 17:47:15,http://31.56.209.153/nz/nz.sh4,online,malware_download,elf
 URLhaus,3892216,2026-07-26 17:47:15,http://31.56.209.153/nz/debug,online,malware_download,elf
-URLhaus,3892218,2026-07-26 17:47:15,http://31.56.209.153/nz/nz.mips,online,malware_download,elf
 URLhaus,3892219,2026-07-26 17:47:15,http://31.56.209.153/nz/nz.mpsl,online,malware_download,elf
 URLhaus,3892220,2026-07-26 17:47:15,http://31.56.209.153/nz.sh,online,malware_download,mirai
 URLhaus,3892221,2026-07-26 17:47:15,http://31.56.209.153/nz/nz.x86,online,malware_download,elf
 URLhaus,3892222,2026-07-26 17:47:15,http://31.56.209.153/nz/nz.ppc,online,malware_download,elf
+URLhaus,3892223,2026-07-26 17:47:15,http://31.56.209.153/nz/nz.x86_64,online,malware_download,elf
 URLhaus,3892174,2026-07-26 16:17:26,http://www.69cnc.duckdns.org/bins/putita.arm6,online,malware_download,botnetdomain
 URLhaus,3892176,2026-07-26 16:17:26,http://69cnc.duckdns.org/bins/putita.m68k,online,malware_download,69cnc-duckdns-org
 URLhaus,3892146,2026-07-26 16:17:12,http://www.69cnc.duckdns.org/bins/putita.x86,online,malware_download,botnetdomain
@@ -1481,6 +1510,7 @@ URLhaus,3891857,2026-07-26 12:05:04,http://2.26.136.128/tarm6,online,malware_dow
 URLhaus,3891838,2026-07-26 12:04:59,http://2.26.136.128/tarm,online,malware_download,elf
 URLhaus,3891850,2026-07-26 12:04:59,http://2.26.136.128/tmips,online,malware_download,elf
 URLhaus,3891817,2026-07-26 12:04:50,http://2.26.136.128/tmpsl,online,malware_download,elf
+URLhaus,3891471,2026-07-25 11:41:21,http://158.94.211.92/enterprise/student_s.bin,online,malware_download,ClickFix
 URLhaus,3891433,2026-07-25 11:22:13,https://drive.google.com/uc?export=download&id=1EznN9ZSMbkarOKxIJQJNw-P_JNXqHJQz,online,malware_download,encrypted
 URLhaus,3891432,2026-07-25 11:22:12,https://drive.google.com/uc?export=download&id=1Et9JUkcXhkVLaqgXWDXVzYLZKQGwl0bO,online,malware_download,ascii
 URLhaus,3891404,2026-07-25 11:06:12,http://91.92.242.236/files-129312398/files/file_8a7c2cae7ca4b114.exe,online,malware_download,c2-monitor-auto
@@ -1490,6 +1520,15 @@ FeodoTracker,,2025-12-30 13:56:31,50.16.16.211,online,botnet_c2,online
 FeodoTracker,,2026-01-13 21:41:15,34.204.119.63,online,botnet_c2,offline
 FeodoTracker,,2026-02-17 05:41:23,178.62.3.223,online,botnet_c2,offline
 FeodoTracker,,2026-03-04 14:28:39,27.133.154.218,online,botnet_c2,offline
+ThreatFox,2026-08-24 17:53:19," ""1886347"," ""9bfndx1c.eng--theeloncode.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-24 17:37:08," ""1886340"," ""www.augenarzt-willisau.ch",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-24 17:19:27," ""1886338"," ""eng-en-us-synadentix.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-24 17:18:49," ""1886337"," ""an818f37.en-us-en-theeloncode.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-24 17:18:02," ""1886336"," ""en-us-en-theeloncode.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-24 16:56:11," ""1886335"," ""semekonoplje.rs",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-24 15:41:00," ""1886328"," ""corref.ch",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-24 15:40:59," ""1886327"," ""peanutlodge.com",online," ""domain"," ""js.clearfake"
+ThreatFox,2026-08-24 15:38:36," ""1886311"," ""aqua9959.workers.dev",online," ""domain"," ""php.shin_webshell"
 ThreatFox,2026-08-24 15:20:17," ""1886324"," ""z3u99l6p.en-us-en-nervealive.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-24 15:20:07," ""1886307"," ""ciliwaja.workers.dev",online," ""domain"," ""php.shin_webshell"
 ThreatFox,2026-08-24 15:20:06," ""1886308"," ""zavyvolu.workers.dev",online," ""domain"," ""php.shin_webshell"
@@ -3134,17 +3173,6 @@ ThreatFox,2026-08-22 18:59:21," ""1884703"," ""eng--theeloncode.com",online," ""
 ThreatFox,2026-08-22 18:44:49," ""1884702"," ""dhi-cm.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-22 18:34:48," ""1884700"," ""advouch.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-22 18:34:48," ""1884701"," ""borellavoguedeco.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 17:24:45," ""1884689"," ""augenarzt-huttwil.ch",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 17:18:11," ""1884688"," ""tvlmc67657.workers.dev",online," ""domain"," ""php.shin_webshell"
-ThreatFox,2026-08-22 17:02:36," ""1884680"," ""xraydbdr.eng-thebrain-song.us",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 17:00:54," ""1884679"," ""8tc662a7.eng-homepowershield.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 16:58:57," ""1884678"," ""eng-thebrain-song.us",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 16:57:02," ""1884677"," ""eng-homepowershield.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 16:56:32," ""1884676"," ""c5xxg0v3.eng-flashburnn.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 16:56:19," ""1884675"," ""eng-flashburnn.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 16:40:15," ""1884674"," ""pivotpoint.ch",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 15:45:14," ""1884672"," ""vva5dqlz.en-en-us-zensulin.com",online," ""domain"," ""js.clearfake"
-ThreatFox,2026-08-22 15:44:59," ""1884671"," ""en-en-us-zensulin.com",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-22 14:58:34," ""1884662"," ""lckd.store",online," ""domain"," ""js.clearfake"
 ThreatFox,2026-08-22 14:34:27," ""1884659"," ""64.227.76.201:25001",online," ""ip:port"," ""apk.kimwolf"
 ThreatFox,2026-08-22 14:34:26," ""1884660"," ""209.38.109.169:25001",online," ""ip:port"," ""apk.kimwolf"
@@ -3481,7 +3509,6 @@ ThreatFox,2026-08-19 06:05:57," ""1881389"," ""151.242.63.215:7443",online," ""i
 ThreatFox,2026-08-19 06:05:56," ""1881390"," ""151.242.63.215:7080",online," ""ip:port"," ""win.hype_agent"
 ThreatFox,2026-08-19 06:05:56," ""1881391"," ""195.177.94.60:7080",online," ""ip:port"," ""win.hype_agent"
 ThreatFox,2026-08-19 06:05:55," ""1881393"," ""209.54.103.173:7080",online," ""ip:port"," ""win.hype_agent"
-ThreatFox,2026-08-19 06:05:25," ""1881417"," ""43.128.113.133:9035",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-19 06:05:24," ""1881423"," ""150.109.93.78:8080",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-19 06:05:24," ""1881442"," ""150.109.93.78:34567",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-19 06:05:09," ""1881540"," ""43.134.49.218:9034",online," ""ip:port"," ""elf.aisuru"
@@ -4038,6 +4065,7 @@ ThreatFox,2026-08-16 13:04:44," ""1876883"," ""217.60.195.110:56002",online," ""
 ThreatFox,2026-08-16 13:04:43," ""1876882"," ""217.60.195.110:56001",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-08-16 13:03:50," ""1876897"," ""150.109.93.78:8443",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-16 13:03:33," ""1876984"," ""43.128.113.133:8080",online," ""ip:port"," ""elf.aisuru"
+ThreatFox,2026-08-16 13:03:28," ""1877037"," ""176.98.182.216:8080",online," ""ip:port"," ""elf.aisuru"
 ThreatFox,2026-08-16 13:03:28," ""1877040"," ""45.145.41.185:56001",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-08-16 13:03:28," ""1877041"," ""172.98.22.177:56001",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-08-16 13:03:26," ""1877051"," ""150.109.93.78:9035",online," ""ip:port"," ""elf.aisuru"
@@ -6165,7 +6193,6 @@ ThreatFox,2026-06-21 22:58:24," ""1835123"," ""hankinhoto.net",online," ""domain
 ThreatFox,2026-06-21 22:58:23," ""1835109"," ""forexsisters.com",online," ""domain"," ""win.remus"
 ThreatFox,2026-06-21 22:58:20," ""1835021"," ""b2ccom.com.br",online," ""domain"," ""win.remus"
 ThreatFox,2026-06-21 22:58:19," ""1835009"," ""amcf.online",online," ""domain"," ""win.remus"
-ThreatFox,2026-06-21 19:04:04," ""1834950"," ""njzlopghznkamkl.cfd",online," ""domain"," ""unknown_loader"
 ThreatFox,2026-06-21 13:05:15," ""1834778"," ""74.208.92.197:5173",online," ""ip:port"," ""win.overlord"
 ThreatFox,2026-06-21 09:45:40," ""1834771"," ""89.42.134.220:6606",online," ""ip:port"," ""win.asyncrat"
 ThreatFox,2026-06-21 09:45:23," ""1834770"," ""51.79.51.255:4321",online," ""ip:port"," ""win.adaptix_c2"
@@ -6257,6 +6284,7 @@ ThreatFox,2026-06-10 06:00:25," ""1825703"," ""8.163.59.20:8008",online," ""ip:p
 ThreatFox,2026-06-09 21:45:51," ""1825631"," ""198.46.199.110:53",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-06-09 20:00:17," ""1825614"," ""45.87.53.6:443",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-06-09 19:44:51," ""1825613"," ""46.151.182.16:1011",online," ""ip:port"," ""win.asyncrat"
+ThreatFox,2026-06-09 13:38:04," ""1825482"," ""3.146.93.253:55503",online," ""ip:port"," ""apk.vo1d"
 ThreatFox,2026-06-09 05:11:28," ""1825247"," ""attyx.com",online," ""domain"," ""win.vidar"
 ThreatFox,2026-06-09 05:11:12," ""1825258"," ""noscalpelvasectomy.com",online," ""domain"," ""win.vidar"
 ThreatFox,2026-06-07 23:45:14," ""1824508"," ""209.200.246.194:17568",online," ""ip:port"," ""win.cobalt_strike"
@@ -6332,7 +6360,6 @@ ThreatFox,2026-05-27 19:43:47," ""1819220"," ""18.162.155.202:3350",online," ""i
 ThreatFox,2026-05-27 15:46:43," ""1819146"," ""8.134.70.73:9999",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-05-27 07:09:22," ""1818956"," ""8.163.49.50:80",online," ""ip:port"," ""win.cobalt_strike"
 ThreatFox,2026-05-26 19:43:28," ""1818872"," ""155.102.136.60:4506",online," ""ip:port"," ""win.deimos_c2"
-ThreatFox,2026-05-26 15:06:03," ""1818809"," ""192.253.248.181:80",online," ""ip:port"," ""osx.odyssey_stealer"
 ThreatFox,2026-05-26 09:44:02," ""1818696"," ""193.24.123.160:45631",online," ""ip:port"," ""win.adaptix_c2"
 ThreatFox,2026-05-26 08:35:01," ""1818605"," ""103.17.38.43:56001",online," ""ip:port"," ""win.pure_rat"
 ThreatFox,2026-05-25 22:46:18," ""1818480"," ""47.108.25.113:443",online," ""ip:port"," ""win.cobalt_strike"
